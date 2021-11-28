@@ -13,6 +13,8 @@ Duke Kunshan University
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
 
 ## Project 1: Python Packages for Economics：Model and Simulation
+### Nashpy
+### QuantEcon
 ## Project 2: oTree Instructions for Behavorial Experiments
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
 ## Project 4: Tech Editor Instructions
