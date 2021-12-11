@@ -20,7 +20,7 @@ Duke Kunshan University
 
 ## Project 2: oTree Instructions for Behavorial Experiments
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
-## Project 4: Tech Editor Instructions
+## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
 ## Project 5: How Gradescope
 
 
