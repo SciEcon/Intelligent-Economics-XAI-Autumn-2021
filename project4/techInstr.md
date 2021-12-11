@@ -4,7 +4,7 @@
 
 ## Languages
 
-### $\LaTeX$
+### Latex
 
 It is highly recommended to use Latex when you’re intended to type professional-looking mathematical expressions, algorithms with pseudo-code, and tables. You can take a screenshot and copy-paste the output to your text editor.
 
