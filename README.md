@@ -18,7 +18,7 @@ Duke Kunshan University
 ### [Case Study Questions](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Questions.ipynb)
 ### [Case Study Answers](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Answer.ipynb)
 
-## Project 2: oTree Instructions for Behavorial Experiments
+## [Project 2: oTree Instructions for Behavorial Experiments](./project2/oTree.md)
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
 ## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
 ## Project 5: How Gradescope
