@@ -1,8 +1,6 @@
 # Intelligent Economics: An Explainable AI Approach
 
-ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session)
-
-Duke Kunshan University
+ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kunshan University
 
 **Instructor**: 
 
