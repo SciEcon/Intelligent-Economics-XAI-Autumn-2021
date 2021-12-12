@@ -18,6 +18,7 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 
 Pros:
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
+
 (1) upload assignments and attachments;
 
 (2) set up sub-questions and specific answer positions with the beta version;
