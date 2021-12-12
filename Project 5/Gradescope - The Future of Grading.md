@@ -10,11 +10,13 @@ By enabling Gradescope as a tool in Sakai, the instructor and students can direc
 
 Summary:
 Gradescope is generally a user-friendly integrated platform for assignment submission and grading. We have figured out several pros and cons in our use as both students and TAs. We highly appreciate the integrated functionality of Gradescope but think some details need more attention. 
+
 Pros:
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 (1) upload assignments and attachments;
 (2) set up sub-questions and specific answer positions with the beta version;
-(3) upload grading rubrics and add additional comments, and (4) review and export grades, and students to upload their assignments with tags for every question.
+(3) upload grading rubrics and add additional comments;
+(4) review and export grades, and students to upload their assignments with tags for every question.
 
 2. **Free access and connection with Sakai**: Gradescope is connected with Sakai, which provides free access for instructors, TAs, and students.
 
@@ -22,7 +24,9 @@ Pros:
 
 Cons:
 1. **Rubrics uploading**: The grading rubrics can only be uploaded after at least one submission of the assignment. And the rubrics cannot be replicated from another assignment.
+
 2. **Auto-grading tools**: There are no auto-grading tools to grade the assignments.
+
 3. **Complex assignment grading**: Complex assignment grading can only be done by setting sub-questions. And there are no logic settings within the sub-questions.
 
 # Essay Assignment
@@ -33,6 +37,7 @@ In general, we ask students to submit their assignments onto Gradescope and we u
 
 
 There are 5 functional pages in Gradescope:
+
 Dashboard (visible in student view): Allows students and instructors to view the active assignments and course description.
 Assignments (invisible in student view): Allows instructors and TAs to check the status of the assignments.
 Roster (invisible in student view): Allows instructors and TAs to add or delete course members.
@@ -42,6 +47,7 @@ Course Settings (invisible in student view): Allows instructors and TAs to set u
 In each assignment, we use the beta version to add sub-questions under one assignment. Figures 6-9 show the functionality of Gradescop in grading assignments:
 
 There are 4 functional pages in each assignment grading process that are not visible in student view:
+
 Edit Outline: Allows instructors and TAs to edit the questions of the assignments.
 Manage Submissions: Allows instructors and TAs to view the information of the submissions and review or delete any submission
 Grade Submissions: Allow instructors and TAs to view the submission under each sub-question.
@@ -49,17 +55,21 @@ Review Grades: Provides statistics of the grading and allows instructors or TAs 
 
 
 Figure 10 shows how instructors and TAs are able to grade the assignments with grading rubrics.
+
 Pros:
 1. **Clear rubrics feedback**: Students are able to get detailed feedback according to the grading rubrics and any extra comments.
 2. **Specific answer position**: TAs and instructors can set up specific answer formats and the students can tag their answers in a certain place, which reduces the complexity in assignment grading.
+
 Cons:
 1. **Low tolerance for large files**: Gradescope requires instructors/TAs to download the large files to view the assignments. However, the tolerance is not very high since ___(to be filled with checks).
 2. **Comments on certain positions in the essay**: Gradescope does not allow instructors/TAs to address in-text comments in certain positions.
 
 # Code Assignment
 *Econ 211, Problem Set 3, Code Assignment*
+
 Pros: 
 Not obvious.
+
 Cons: 
 1. **Code editing environment not provided**
 Gradescope does not provide an online editing environment like Google Colab. In other words, Gradescope does not allow students to edit coding assignments directly on its platform. Therefore, what we did is to provide a Google Colab template for students to download and after they finish coding in their own environments, they need to upload the file again to Gradescope for grading.
