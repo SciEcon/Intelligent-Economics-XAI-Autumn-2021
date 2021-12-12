@@ -1,17 +1,17 @@
 # Table of Contents
 
 
-1. [Introduction](#Introduction)
+### [1. Introduction](#Introduction)
 
-2. [How Gradescope: a step-by-step guide](#How-Gradescope:-a-step-by-step-guide)
+###[2. How Gradescope: a step-by-step guide](#How-Gradescope:-a-step--by--step-guide)
 
-3. [Pros and Cons](#Pros-and-Cons)
+### [3. Pros and Cons](#Pros-and-Cons)
  
-4. [Essay Assignment](#Essay-Assignment)
+### [4. Essay Assignment](#Essay-Assignment)
 
-5. [Code Assignment](#Code-Assignment)
+### [5. Code Assignment](#Code-Assignment)
 
-6. [The future of grading](#The-future-of-grading)
+### [6. The future of grading](#The-future-of-grading)
 
 # Introduction 
 
