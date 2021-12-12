@@ -3,7 +3,7 @@
 
 ### [1. Introduction](#Introduction)
 
-### [2. How Gradescope?](#How-Gradescope-?)
+### [2. How Gradescope?](#How-Gradescope\?)
 
 ### [3. Pros and Cons](#Pros-and-Cons)
  
