@@ -18,8 +18,11 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 Pros:
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 (1) upload assignments and attachments;
+
 (2) set up sub-questions and specific answer positions with the beta version;
+
 (3) upload grading rubrics and add additional comments;
+
 (4) review and export grades, and students to upload their assignments with tags for every question.
 
 2. **Free access and connection with Sakai**: Gradescope is connected with Sakai, which provides free access for instructors, TAs, and students.
@@ -43,9 +46,13 @@ In general, we ask students to submit their assignments onto Gradescope and we u
 There are 5 functional pages in Gradescope:
 
 Dashboard (visible in student view): Allows students and instructors to view the active assignments and course description.
+
 Assignments (invisible in student view): Allows instructors and TAs to check the status of the assignments.
+
 Roster (invisible in student view): Allows instructors and TAs to add or delete course members.
+
 Extensions (invisible in student view): Allows instructors and TAs to add specific time extensions to assignments.
+
 Course Settings (invisible in student view): Allows instructors and TAs to set up the course and customize the grading styles.
 
 In each assignment, we use the beta version to add sub-questions under one assignment. Figures 6-9 show the functionality of Gradescop in grading assignments:
@@ -53,8 +60,11 @@ In each assignment, we use the beta version to add sub-questions under one assig
 There are 4 functional pages in each assignment grading process that are not visible in student view:
 
 Edit Outline: Allows instructors and TAs to edit the questions of the assignments.
-Manage Submissions: Allows instructors and TAs to view the information of the submissions and review or delete any submission
+
+Manage Submissions: Allows instructors and TAs to view the information of the submissions and review or delete any submission.
+
 Grade Submissions: Allow instructors and TAs to view the submission under each sub-question.
+
 Review Grades: Provides statistics of the grading and allows instructors or TAs to review the assignments.
 
 
@@ -62,10 +72,12 @@ Figure 10 shows how instructors and TAs are able to grade the assignments with g
 
 Pros:
 1. **Clear rubrics feedback**: Students are able to get detailed feedback according to the grading rubrics and any extra comments.
+
 2. **Specific answer position**: TAs and instructors can set up specific answer formats and the students can tag their answers in a certain place, which reduces the complexity in assignment grading.
 
 Cons:
 1. **Low tolerance for large files**: Gradescope requires instructors/TAs to download the large files to view the assignments. However, the tolerance is not very high since ___(to be filled with checks).
+
 2. **Comments on certain positions in the essay**: Gradescope does not allow instructors/TAs to address in-text comments in certain positions.
 
 # Code Assignment
