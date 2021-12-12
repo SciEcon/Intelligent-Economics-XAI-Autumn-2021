@@ -13,6 +13,7 @@ By enabling Gradescope as a tool in Sakai, the instructor and students can direc
 # Pros and Cons
 
 Summary:
+
 Gradescope is generally a user-friendly integrated platform for assignment submission and grading. We have figured out several pros and cons in our use as both students and TAs. We highly appreciate the integrated functionality of Gradescope but think some details need more attention. 
 
 Pros:
