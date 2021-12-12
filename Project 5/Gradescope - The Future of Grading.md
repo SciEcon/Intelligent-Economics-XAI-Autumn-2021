@@ -42,6 +42,7 @@ Cons:
 *ECON 101, 3 Problem Set, Essay, Prerequisite Require Document 1-3*
 
 In ECON 101, we have in total 3 problem sets that use Gradescope. In each problem set, the students are asked to write a 3-part essay with a flow chart and several illustrative figures and tables. For the problem set assignments, we have the following help documentation: [Problem Set 1 Instruction][Problem Set 2 Instruction][Problem Set 3 Instruction][Submission Guideline][Requirements/Grading Rubrics]
+
 In general, we ask students to submit their assignments onto Gradescope and we use it for grading. Figures 1-5 show the functionality of Gradescope:
 
 
