@@ -26,7 +26,11 @@ Duke Kunshan University
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
 ## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
 ## [Project 5: How Gradescope](./project5/Gradescope.md)
-
-
+### [1. Introduction](#Introduction)
+### [2. How Gradescope: A step-by-step guide](#How-Gradescope-A-step-by-step-guide)
+### [3. Pros and Cons](#Pros-and-Cons)
+### [4. Essay Assignment](#Essay-Assignment)
+### [5. Code Assignment](#Code-Assignment)
+### [6. The future of grading](#The-future-of-grading)
 
 
