@@ -9,6 +9,7 @@ Duke Kunshan University
 **Instructor**: [Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
+[Xinyu Tian ](LInkedIn URL), XXXX(Major and Class), Duke Kunshan University
 
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
 
