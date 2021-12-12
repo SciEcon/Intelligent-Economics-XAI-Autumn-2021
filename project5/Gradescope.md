@@ -49,6 +49,7 @@ In ECON 101, we have in total 3 problem sets that use Gradescope. In each proble
 
 In general, we ask students to submit their assignments onto Gradescope and we use it for grading. Figures 1-5 show the functionality of Gradescope:
 
+![Figure1-5](images/Figure1-5.png)
 
 There are 5 functional pages in Gradescope:
 
@@ -64,6 +65,8 @@ Course Settings (invisible in student view): Allows instructors and TAs to set u
 
 In each assignment, we use the beta version to add sub-questions under one assignment. Figures 6-9 show the functionality of Gradescop in grading assignments:
 
+![Figure6-9](images/Figure6-9.png)
+
 There are 4 functional pages in each assignment grading process that are not visible in student view:
 
 Edit Outline: Allows instructors and TAs to edit the questions of the assignments.
@@ -74,7 +77,7 @@ Grade Submissions: Allow instructors and TAs to view the submission under each s
 
 Review Grades: Provides statistics of the grading and allows instructors or TAs to review the assignments.
 
-
+![Sample grading page](images/Figure10.png)
 Figure 10 shows how instructors and TAs are able to grade the assignments with grading rubrics.
 
 Pros:
