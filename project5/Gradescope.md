@@ -12,6 +12,7 @@
 5. [Code Assignment](#Code Assignment)
 
 6. [The future of grading](#The future of grading)
+
 # Introduction 
 
 Gradescope can help the instructor to properly administer and grade all of the assessments, no matter online or in-class, and it is designed to save time grading and get a clear picture of how the students are doing. This platform supports all subjects to be graded, including Computer Science, Economics, Mathematics, Engineering, etc. It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports a quick and flexible grading experience by applying detailed feedback with a simple click. Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential AI-assisted grading experience by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by group. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.
