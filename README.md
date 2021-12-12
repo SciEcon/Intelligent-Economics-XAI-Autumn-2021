@@ -9,7 +9,9 @@ Duke Kunshan University
 **Instructor**: [Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
+
 [Xinyu Tian ](LInkedIn URL), XXXX(Major and Class), Duke Kunshan University
+
 [Tianyu Wu](https://www.linkedin.com/in/tianyu-henry-wu/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
@@ -23,7 +25,7 @@ Duke Kunshan University
 ## [Project 2: oTree Instructions for Behavorial Experiments](./project2/oTree.md)
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
 ## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
-## Project 5: How Gradescope](./project5/Gradescope.md)
+## [Project 5: How Gradescope](./project5/Gradescope.md)
 
 
 
