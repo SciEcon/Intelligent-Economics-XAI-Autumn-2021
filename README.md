@@ -6,7 +6,9 @@ ECON 211-001 (1094)
 
 Duke Kunshan University
 
-**Instructor**: [Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
+**Instructor**: 
+![plot](https://github.com/SciEcon/Intelligent-Economics/blob/main/Luyao_headshot.jpg)
+[Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
 
