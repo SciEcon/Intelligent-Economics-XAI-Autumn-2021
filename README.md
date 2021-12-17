@@ -22,13 +22,15 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### About
-With the development of computer science, more and more tools are invented to help solve economic related problems. In this project, we will introduce five useful tools for Ecomomics: Nashpy, QuanEcon, Game Theory Explorer (GTE), Gambit and Mesa. Nashpy and QuantEcon aare able to solve simple game theory problems, and both of them can be accessed by Python. Game Theory Explorer and Gambit are used for simulating and solving extensive games. Mesa is a Python framework for agent-based modeling. We hope this project would be helpful for those who want to solov economic problems with technical tools.
+With the development of computer science, more and more tools are invented to help solving economic related problems. In this project, we will introduce five useful tools for Ecomomics: Nashpy, QuanEcon, Game Theory Explorer (GTE), Gambit and Mesa. Nashpy and QuantEcon aare able to solve simple game theory problems, and both of them can be accessed by Python. Game Theory Explorer and Gambit are used for simulating and solving extensive games. Mesa is a Python framework for agent-based modeling. We hope this project would be helpful for those who want to solov economic problems with technical tools.
 ### Table of Content
-#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Readme.md) 
-#### [2. Nashpy & QuantEcon](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20NashPy%20vs%20QuantEcon.ipynb)
-#### [3. Mesa](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Mesa.ipynb)
-#### [4. Case Study Questions](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Questions.ipynb)
-#### [5. Case Study Answers](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Answer.ipynb)
+#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#1-introduction)
+#### [2. Nashpy](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Nashpy)
+#### [3. QuantEcon](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#QuantEcon)
+ #### [4. Game Theory Explorer](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Game-Theory-Explorer)
+#### [5. Gambit](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Gambit)
+#### [6. Mesa](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Mesa)
+#### [7. Case Studies](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Case-Studies)
 
 
 ## [Project 2: oTree Instructions for Behavorial Experiments](./project2/oTree.md)
