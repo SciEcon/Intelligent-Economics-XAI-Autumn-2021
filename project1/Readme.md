@@ -2,15 +2,17 @@
 
 ### [1. Introduction](#Introduction)
 
-### [2. How Gradescope: A step-by-step guide](#How-Gradescope-A-step-by-step-guide)
+### [2. Nashpy](#Nashpy)
 
-### [3. Pros and Cons](#Pros-and-Cons)
+### [3. QuantEcon](#QuantEcon)
  
-### [4. Essay Assignment](#Essay-Assignment)
+### [4. Game Theory Explorer](#Game-Theory-Explorer)
 
-### [5. Code Assignment](#Code-Assignment)
+### [5. Gambit](#Gambit)
 
-### [6. The future of grading](#The-future-of-grading)
+### [6. Mesa](#Mesa)
+
+### [7. Case Studies](#Case-Studies)
 
 
 # Introduction
@@ -19,7 +21,7 @@ Both Nashpy and QuantEcon are able to solve simple game theory problems. To be s
 In the first four sections, we introduce each software by providing the references, license information and  required citations. In the last section, we present a case study for each software. 
 
 
-# NashPy
+# Nashpy
 [Documentation](https://nashpy.readthedocs.io/en/stable/index.html)
 ## 1. Introduction
 [Nashpy](https://github.com/drvinceknight/Nashpy) is a Python library for the computation of equilibria in 2 player strategic form games ([Nashpy](https://nashpy.readthedocs.io/en/stable/), 2017). Check [This document](https://nashpy.readthedocs.io/en/stable/) for instructions.
