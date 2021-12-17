@@ -97,8 +97,10 @@ Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
 Kazil, Jackie, Masad, David, Crooks and Andrew (2020). *Utilizing Python for Agent-Based Modeling: The Mesa Framework.* https://github.com/projectmesa/mesa
 ### 4. Example
 In the [Colab Notebook 3: Mesa](https://github.com/SciEcon-GameTheory/mesa_based_118), we used Mesa to simulate an evolutionary game in the paper entitled “Evolutionary Game for Mining Pool Selection in Blockchain Networks.” This paper studies the dynamics of mining pool selection in a blockchain network, where mining pools may choose arbitrary block mining strategies. We simulate the two pool cases and visualize the miners’ dynamic switching between these two pools. Figure 7 presents the pseudo code. 
-
-![persudo](images/persudo.png)
+<p align="center">
+    <img src=images/persudo.png>
+</p>
+<!-- ![persudo](images/persudo.png) -->
 ![mesa2](images/mesa2.png)
 
 
