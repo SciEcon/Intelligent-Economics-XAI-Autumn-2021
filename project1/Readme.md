@@ -5,7 +5,7 @@
 ### [2. Nashpy](#Nashpy)
 
 ### [3. QuantEcon](#QuantEcon)
- 
+
 ### [4. Game Theory Explorer](#Game-Theory-Explorer)
 
 ### [5. Gambit](#Gambit)
