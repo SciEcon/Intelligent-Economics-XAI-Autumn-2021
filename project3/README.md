@@ -14,7 +14,7 @@
 
 ### [7. Statsmodel](#Statsmodel)
 
-### [8. SKlearn (scikit-learn)](#SKlearn (scikit-learn))
+### [8. SKlearn (scikit-learn)](#SKlearn-(scikit-learn))
 
 ### [9. Keras](#Keras)
 

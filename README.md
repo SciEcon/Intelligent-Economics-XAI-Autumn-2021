@@ -27,14 +27,34 @@ With the development of computer science, more and more tools are invented to he
 #### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#1-introduction)
 #### [2. Nashpy](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Nashpy)
 #### [3. QuantEcon](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#QuantEcon)
- #### [4. Game Theory Explorer](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Game-Theory-Explorer)
+#### [4. Game Theory Explorer](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Game-Theory-Explorer)
 #### [5. Gambit](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Gambit)
 #### [6. Mesa](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Mesa)
 #### [7. Case Studies](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1#Case-Studies)
 
-
 ## [Project 2: oTree Instructions for Behavorial Experiments](./project2/oTree.md)
-## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
+
+
+## [Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning](./project3/README.md)
+### About
+In this porject, we introduce 11 useful tools for Economics: Neural Network Playground, TensorFlow, PyTorch, Eli5, Scipy, Statsmodel, Pingouin, SKlearn (scikit-learn), Keras, FinTA, and Kaggle Kernel. Basic information is provided for every tool, including introduction, license, required citation for this tool. Also, we provide examples for three of the tools: TensorFlow, SKlearn and Kaggle Kernel. We hope this project would be helpful for those who want to conduct machine learning and statistical analysis in the field of economics.
+### Table of Content
+#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Introduction)
+#### [2. Neural Network Playground](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Neural-Network-Playground)
+#### [3. TensorFlow](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#TensorFlow)
+#### [4. PyTorch](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#PyTorch)
+#### [5. Eli5](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Eli5)
+#### [6. SciPy](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#SciPy)
+#### [7. Statsmodel](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Statsmodel)
+#### [8. SKlearn (scikit-learn)](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#8-sklearn-scikit-learn)
+#### [9. Keras](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Keras)
+#### [10. FinTA](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#FinTA)
+#### [11. Kaggle Kernel](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Kaggle-Kernel)
+
+
+
+
+
 ## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
 ## [Project 5: How Gradescope](./project5/Gradescope.md)
 ### About
