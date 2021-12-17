@@ -16,6 +16,10 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
 
+[Jingwei Li](https://www.linkedin.cn/injobs/in/jw-li), Data Science, Class of 2023, Duke Kunshan University
+
+[Chenyu Wang](www.linkedin.com/in/chenyuwangcw), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
+
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### [Nashpy & QuantEcon](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20NashPy%20vs%20QuantEcon.ipynb)
 ### [Mesa](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Mesa.ipynb)
