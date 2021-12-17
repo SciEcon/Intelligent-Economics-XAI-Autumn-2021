@@ -69,7 +69,6 @@ Figure 3 demonstrate how we create the game tree successfully and solve for the 
 [Website](http://www.gambit-project.org/)
 ### 1. Introduction
 [Gambit](http://www.gambit-project.org/) is an open-source collection of tools for doing computation in game theory ([Gambit](http://www.gambit-project.org), 2017). It provides a graphical interface to help get intuition about simple games and command-line tools and Python scripting API to support practical applications. However, the Python API is sometimes not stable and the graphical interface is more recommended. Check [official website](http://www.gambit-project.org/) to get started with Gambit.
-
 ![Gambit](images/Gambit.png)
 
 ### 2. License
@@ -78,8 +77,9 @@ Gambit is Free/Open Source software, released under the terms of the GNU General
 McKelvey, Richard D., McLennan, Andrew M., and Turocy, Theodore L. (2014). *Gambit: Software Tools for Game Theory*, Version 16.0.1. http://www.gambit-project.org. 
 ### 4. Example
 Here we provide an example of solving an imperfect information game with Gambit. The game is constructed as shown in Figure 5. Notice that in the game tree we constructed below is asymmetric and has an information set, which means it is an imperfect information game. By using GTE, we are not able to solve this kind of imperfect information and asymmetric game, while Gambit allows us to achieve that. You can download the Gambit graphical interface via [this link](https://sourceforge.net/projects/gambit/files/). Check [this document](http://www.gambit-project.org/gambit15/gui.html) to learn how to use the interface.
+
 <p align="center">
-    <img src=images/Gamebit2.png>
+    <img src=images/Gambit2.png>
 </p>
 
 
