@@ -21,10 +21,14 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 [Chenyu Wang](www.linkedin.com/in/chenyuwangcw), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
-### [Nashpy & QuantEcon](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20NashPy%20vs%20QuantEcon.ipynb)
-### [Mesa](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Mesa.ipynb)
-### [Case Study Questions](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Questions.ipynb)
-### [Case Study Answers](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Answer.ipynb)
+### About
+With the development of computer science, more and more tools are invented to help solve economic related problems. In this project, we will introduce five useful tools for Ecomomics: Nashpy, QuanEcon, Game Theory Explorer (GTE), Gambit and Mesa. Nashpy and QuantEcon aare able to solve simple game theory problems, and both of them can be accessed by Python. Game Theory Explorer and Gambit are used for simulating and solving extensive games. Mesa is a Python framework for agent-based modeling. We hope this project would be helpful for those who want to solov economic problems with technical tools.
+### Table of Content
+#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Readme.md) 
+#### [2. Nashpy & QuantEcon](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20NashPy%20vs%20QuantEcon.ipynb)
+#### [3. Mesa](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Mesa.ipynb)
+#### [4. Case Study Questions](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Questions.ipynb)
+#### [5. Case Study Answers](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20Case%20Study%20Answer.ipynb)
 
 ## [Project 2: oTree Instructions for Behavorial Experiments](./project2/oTree.md)
 ## Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning
