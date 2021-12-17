@@ -23,15 +23,14 @@ In the first four sections, we introduce each software by providing the referenc
 [Documentation](https://nashpy.readthedocs.io/en/stable/index.html)
 ## 1. Introduction
 [Nashpy](https://github.com/drvinceknight/Nashpy) is a Python library for the computation of equilibria in 2 player strategic form games ([Nashpy](https://nashpy.readthedocs.io/en/stable/), 2017). Check [This document](https://nashpy.readthedocs.io/en/stable/) for instructions.
-
 ![Nashpy flowchart](images/nashpy.png)
+
 ## 2. License
 Nashpy is Free/Open Source software, released under the terms of the MIT License.
 ## 3. Required Citation
 Vincent Knight (2021).*Nashpy: a python library for the computation of equilibria of 2 player strategic games*, Version 0.0.28. https://github.com/drvinceknight/Nashpy
 ## 4. Example
 In this [Colab Notebook 1: NashPy](https://github.com/SciEcon/Intelligent-Economics/blob/main/project1/Colab%20Notebook%20NashPy%20vs%20QuantEcon.ipynb), we demonstrate how to solve the Nash Equilibrium of three classic games using Nashpy: the prisoner’s dilemma, matching pennies, and battle of sex in Nashpy. 
-
 
 # QuantEcon
 [Documentation](https://quanteconpy.readthedocs.io/en/latest/)
@@ -102,7 +101,7 @@ In the [Colab Notebook 3: Mesa](https://github.com/SciEcon-GameTheory/mesa_based
     <img src=images/persudo.png>
 </p>
 
-![mesa2](images/mesa2.png)
+![Mesa2](images/mesa2.png)
 
 
 # Case Studies
