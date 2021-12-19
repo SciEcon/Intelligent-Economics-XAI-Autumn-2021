@@ -20,13 +20,20 @@
 
 ## Gradescope Resources
 Gradescope Official Website: https://www.gradescope.com/
+
 Gradescope YouTube Channel: https://www.youtube.com/user/Gradescope/featured
+
 Gradescope at Duke: https://learninginnovation.duke.edu/gradescope/
+
 Gradescope help center: https://help.gradescope.com/
+
 Student Center: https://help.gradescope.com/category/cyk4ij2dwi-student-workflow
+
 FAQs: https://help.gradescope.com/category/czisb9ar5e-faq
+
 Using Gradescope with Sakai as an Instructor: 
 https://help.gradescope.com/article/4sma4yasea-sakai-instructor
+
 Using Gradescope with Sakai as a Student:
 https://help.gradescope.com/article/vjya9v6fb1-sakai-student
 
