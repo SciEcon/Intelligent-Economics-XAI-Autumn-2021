@@ -57,6 +57,7 @@ By enabling Gradescope as a tool in [Learning Management Systems (LMSs)](https:/
 Gradescope is generally a user-friendly integrated platform for assignment submission and grading. For example, [Yen et al (2020)](https://dl.acm.org/doi/pdf/10.1145/3386527.3406748) point out that Gradescope helps the instructor to reduce the grading times of short-answer problems to a large extent. We have also figured out several pros and cons in experiential learning of acting the roles of students, Teaching Assistants (TAs), and instructors. We highly appreciate the integrated functionality of Gradescope but also identify issues for further improvements.
 
 ## Pros:
+
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 
 - upload assignments and attachments;
@@ -71,22 +72,28 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 3. **User-friendly operations**: The web pages of Gradescope are clear and instructive. Users can easily customize the assignments and grading procedure.
 
 ## Cons:
+
 1. **Rubrics uploading**: The grading rubrics can only be uploaded after at least one submission of the assignment. And the rubrics cannot be replicated from another assignment.
 
-2. **Auto-grading tools**: There are no auto-grading tools to grade the assignments.
+2. **Auto-grading tools**: It is a bit complicated to implement auto-grading tools to grade the assignments.
 
 3. **Complex assignment grading**: Complex assignment grading can only be done by setting sub-questions. And there are no logic settings within the sub-questions.
 
 # Essay Assignment
-*ECON 101, 3 Problem Set, Essay, Prerequisite Require Document 1-3*
 
-In ECON 101, we have in total 3 problem sets that use Gradescope. In each problem set, the students are asked to write a 3-part essay with a flow chart and several illustrative figures and tables. For the problem set assignments, we have the following help documentation: 
+In the course Econ101 Economic Principles, Autumn 2021, Session 1 at Duke Kunshan University, we use Gradescope for 3 Essay Assignments. In the Assignments, students are asked to submit the PDF of the essay, along with [Grammarly](https://www.grammarly.com/) Screenshot and [Turnitin](https://www.turnitin.com/zh-hans) duplicate checking screenshot as prerequisites for grading. 
 
-[[Problem Set 1 Instruction]](https://docs.google.com/document/d/1cZMQYbtZd3Sw7hyOwshi7U2tjQSZL0od/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Problem Set 2 Instruction]](https://docs.google.com/document/d/1NA9faMbosO5zie6oeKeX60zaCCwBfbB8/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Problem Set 3 Instruction]](https://docs.google.com/document/d/1XNeI5_ZI2T2FrmHYdPYR7ypterwWhb8Q/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Submission Guideline]](https://drive.google.com/file/d/1TLadPgDNYDeiUFhrL4EqoYlm2pC38mT9/view?usp=sharing)[[Requirements/Grading Rubrics]](https://drive.google.com/file/d/1nMqJ7Og6LzbxdGp0Sbj1X_ZhECcSPons/view?usp=sharing)
+In general, we ask students to submit their assignments to Gradescope and we use it for grading. Figure 2 shows some general functions of Gradescope that we have utilized:
 
-In general, we ask students to submit their assignments onto Gradescope and we use it for grading. Figures 1-5 show the functionality of Gradescope:
 
-![Figure1-5](images/Figure1-5.png)
+<!-- ![5 General Functions in Gradescope](images/Figure_2.png) -->
+
+<p align="center"><img src=images/Figure_2.png></p>
+<p align="center"><b>Figure 2: 5 General Functions in Gradescope</b></p>
+<p align="center">Create by <a href= "">whimsical </a></p>
+
+<!-- ***Figure 2: 5 General Functions in Gradescope*** -->
+
 
 There are 5 functional pages in Gradescope:
 
