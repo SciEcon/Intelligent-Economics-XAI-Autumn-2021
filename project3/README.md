@@ -37,7 +37,7 @@ Neural Network Playground is a Free/Open Source software, released under the ter
 M. Abadi, A. Agarwal, P. Barham, E. Brevdo, Z. Chen, C. Citro, G. S. Corrado, A. Davis, J. Dean, M. Devin, S. Ghemawat, I. Goodfellow, A. Harp, G. Irving, M. Isard, Y. Jia, R. Jozefowicz, L. Kaiser, M. Kudlur, J. Levenberg, D. Man´e, R. Monga, S. Moore, D. Murray, C. Olah, M. Schuster, J. Shlens, B. Steiner, I. Sutskever, K. Talwar, P. Tucker, V. Vanhoucke, V. Vasudevan, F. Vi´egas, O. Vinyals, P. Warden, M. Wattenberg, M. Wicke, Y. Yu, and X. Zheng. TensorFlow: Large-scale machine learning on heterogeneous systems, 2015. Software available from tensorflow.org.
 ## 4. Example
 ![Neural Network](images/Neural_Network.png)
-Figure 1: Neural Network Playground Example 
+***Figure 1: Neural Network Playground Example ***
 
 
 # TensorFlow
@@ -53,7 +53,7 @@ Figure 2 presents  how to classify images of clothing by TensorFlow. The example
 
 ![Tensorflow](images/tensorflow.png)
 
-Figure 2: TensorFlow Example: Classify images of clothing
+***Figure 2: TensorFlow Example: Classify images of clothing***
 
 
 # PyTorch
@@ -111,7 +111,7 @@ Vallat, R. (2018). Pingouin: statistics in Python. Journal of Open Source Softwa
 [Scikit-learn](https://scikit-learn.org/stable/) is a free Python module for machine learning built on top of SciPy. 
 
 ![Scikit1](images/scikit-learn.png)
-Figure 3: Neural Network Playground Example
+***Figure 3: Neural Network Playground Example***
 
 ### 2. License
 Scikit-learn is open source and free to use under the New BSD License.
@@ -121,7 +121,7 @@ Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-28
 Figure 2 shows how scikit-learn can be used to recognize images of hand-written digits, from 0-9. Check [Colab Notebook: scikit-learn hand-written digits recognition](https://github.com/SciEcon/Intelligent-Economics/blob/main/project3/plot_digits_classification.ipynb) for more details.
 
 ![Scikit2](images/scikit-learn2.png)
-Figure 4: Neural Network Playground Example 
+***Figure 4: Neural Network Playground Example ***
 
 
 # Keras
@@ -153,7 +153,7 @@ FinA is open source and free to use under LGPL-3.0 license.
 Figure 5 shows an example of Kaggle Kernel to do data processing and simple machine learning based on the dataset on Kaggle. Check [this example](https://www.kaggle.com/chenyuwangcw417/demo-code) for more details. 
 
 ![Kaggle](images/kaggle.png)
-Figure 5: Kaggle Kernel Example
+***Figure 5: Kaggle Kernel Example***
 
 
 # Case Studies
