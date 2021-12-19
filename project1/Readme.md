@@ -16,8 +16,8 @@
 
 
 # Introduction
-In these instructions, we introduce five Python Packages for Economics: Nashpy, QuantEcon, Game Theory Explorer, Gambit and Mesa. All the five packages are useful for modelling and simulations. 
-Both Nashpy and QuantEcon are able to solve simple game theory problems. To be specific, Nashpy is a Python library used for the computation of equilibria in 2 player strategic form games while QuantEcon offers additional computational tools for economics, econometrics, and decision making. Game Theory Explorer (GTE) and Gambit are used for simulating and solving extensive games. GTE is an online graphical user interface for small and medium size games while Gambit provides more complete functions. Mesa is a Python framework for agent-based modeling.
+In these instructions, we introduce five Python Packages for Economics: Nashpy, QuantEcon, Game Theory Explorer, Gambit, and Mesa. All five packages are useful for modelling and simulations. 
+Both Nashpy and QuantEcon can solve simple game theory problems. To be specific, Nashpy is a Python library used for the computation of equilibria in 2 player strategic form games([Nashpy](https://nashpy.readthedocs.io/en/stable/), 2017)) while QuantEcon offers additional computational tools for economics, econometrics, and decision making ([QuantEcon](https://quantecon.org), n.d.). Game Theory Explorer (GTE) and Gambit are used for simulating and solving extensive games. GTE is an online graphical user interface for small and medium size games while Gambit provides more complete functions. Mesa is a framework provided by Python that aims to do agent-based modeling.
 In the first four sections, we introduce each software by providing the references, license information and  required citations. In the last section, we present a case study for each software. 
 
 # Nashpy
@@ -48,7 +48,7 @@ In this [Colab Notebook 1: NashPy](https://github.com/SciEcon/Intelligent-Econom
 
 
 ## 2. License
-Nashpy is Free/Open Source software, released under the terms of the BSD-3-Clause License.
+QuantEcon is Free/Open Source software, released under the terms of the BSD-3-Clause License.
 ## 3. Required Citation
 Thomas J. Sargent and John Stachurski (2021), *Quantitative Economics (Python)*, Version 0.5.1. https://quantecon.org/quantecon-py/
 ## 4. Example
@@ -66,7 +66,7 @@ Chart 2.2 Represents the pipeline to solve for Nash Equilibrium (NE) of Battle o
 ### 1. Introduction
 [Game theory Explorer (GTE)](http://www.gametheoryexplorer.org/) software allows researchers to create games in extensive form and to compute equilibria accordingly, and provides an intuitive representation of the Game Tree ([Savani et al.](http://www.maths.lse.ac.uk/Personal/stengel/TEXTE/largeongte.pdf), 2014). Check [this document](http://www.maths.lse.ac.uk/Personal/stengel/TEXTE/largeongte.pdf) to learn more about GTE.
 ### 2. License
-All GTE software is open source and free to use and alter under the GNU General Public Licence.
+GTE is Free/Open Source software, released under the GNU General Public Licence.
 ### 3. Required Citation
 Rahul Savani and Bernhard von Stengel (2015), Game Theory Explorer – Software for the Applied Game Theorist. *Computational Management Science 12, 5*-33.
 ### 4. Example
@@ -81,7 +81,7 @@ Figure 3 demonstrate how we create the game tree successfully and solve for the 
 # Gambit
 [Website](http://www.gambit-project.org/)
 ### 1. Introduction
-[Gambit](http://www.gambit-project.org/) is an open-source collection of tools for doing computation in game theory ([Gambit](http://www.gambit-project.org), 2017). It provides a graphical interface to help get intuition about simple games and command-line tools and Python scripting API to support practical applications. However, the Python API is sometimes not stable and the graphical interface is more recommended. Check [official website](http://www.gambit-project.org/) to get started with Gambit.
+[Gambit](http://www.gambit-project.org/) is an open-source collection of tools for doing computation in game theory. It provides a graphical interface to help get intuition about simple games and command-line tools and Python scripting API to support practical applications ([Gambit](http://www.gambit-project.org), 2017). However, the Python API is sometimes not stable and the graphical interface is more recommended. Check [official website](http://www.gambit-project.org/) to get started with Gambit.
 ![Gambit](images/Gambit.png)
 <p align="center"><b><i>Figure 4: Gambit overview</i></b></p>
 
@@ -105,14 +105,14 @@ Here we provide an example of solving an imperfect information game with Gambit.
 [Github](https://github.com/projectmesa/mesa)
 
 ### 1. Introduction
-[Mesa](https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html) is a modular framework for building, analyzing and visualizing agent-based models. Agent-based models are computer simulations involving multiple entities (the agents) acting and interacting with one another based on their programmed behavior ([Mesa](https://mesa.readthedocs.io/en/latest/overview.html), 2021). Check [this document](https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html) to learn more about Mesa. 
+[Mesa](https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html) is a modular framework for building, analyzing and visualizing agent-based models. Agent-based models are computer simulations which involve multiple entities acting and interacting with one another based on their programmed behavior ([Mesa](https://mesa.readthedocs.io/en/latest/overview.html), 2021). Check [this document](https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html) to learn more about Mesa. 
 
 ![Mesa](images/mesa.png)
 
 <p align="center"><b><i>Figure 6: Mesa Overview</i></b></p>
 
 ### 2. License
-Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
+Mesa is Free/Open Source software, released under the terms of Apache2 license.
 ### 3. Required Citation
 Kazil, Jackie, Masad, David, Crooks and Andrew (2020). *Utilizing Python for Agent-Based Modeling: The Mesa Framework.* https://github.com/projectmesa/mesa
 ### 4. Example
