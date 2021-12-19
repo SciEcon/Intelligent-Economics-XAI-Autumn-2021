@@ -26,7 +26,7 @@ In the first four sections, we introduce each software by providing the referenc
 [Nashpy](https://github.com/drvinceknight/Nashpy) is a Python library for the computation of equilibria in 2 player strategic form games ([Nashpy](https://nashpy.readthedocs.io/en/stable/), 2017). Check [This document](https://nashpy.readthedocs.io/en/stable/) for instructions.
 
 <p align="center"><img src=images/nashpy.png></p>
-<p align="center">Figure 1: The functionings of Nashpy</p>
+<p align="center"><b><i>Figure 1: The functionings of Nashpy</i></b></p>
 
 
 ## 2. License
