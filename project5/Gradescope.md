@@ -59,18 +59,18 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 ## Pros:
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 
-(1) upload assignments and attachments;
-(2) set up sub-questions and specific answer positions with the beta version;
-(3) upload grading rubrics, grade by rubrics, and add additional comments;
-(4) review, post, and export grades;
-(5) provide instant feedback to students;
-(6) receive [regrade requests](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) from students.
+- upload assignments and attachments;
+- set up sub-questions and specific answer positions with the beta version;
+- upload grading rubrics, grade by rubrics, and add additional comments;
+- review, post, and export grades;
+- provide instant feedback to students;
+- receive [regrade requests](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) from students.
 
-2. **Free access and connection with Sakai**: Gradescope is connected with Sakai, which provides free access for instructors, TAs, and students.
+2. **Free access and connection with a broad range of Learning Management Systems (LMS), such as [Sakai](https://sakai.duke.edu/)**: Gradescope is connected with Sakai, which allows posting grades to Sakai with just one click.
 
 3. **User-friendly operations**: The web pages of Gradescope are clear and instructive. Users can easily customize the assignments and grading procedure.
 
-Cons:
+## Cons:
 1. **Rubrics uploading**: The grading rubrics can only be uploaded after at least one submission of the assignment. And the rubrics cannot be replicated from another assignment.
 
 2. **Auto-grading tools**: There are no auto-grading tools to grade the assignments.
