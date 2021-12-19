@@ -1,6 +1,21 @@
-# Tech Editor Instructions
+# Table of Contents
+
+### [About](#about)
+
+### [1. Languages](#languages)
+
+#### [1.1 LaTex](#latex)
+
+#### [1.2 Markdown](#markdown)
+
+### [2. Basic Platform or Software](#basic-platform-or-software)
+
+### [3. Collaborative Platforms or Softwares](#3-collaborative-platforms-or-softwares)
 
 ---
+
+## About
+For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
 
 ## Languages
 
@@ -88,6 +103,20 @@ Markdown is an easy-to-use language standard that allows you to create structure
     - Linux: Control + Alt + 6
 
     When you press these keys, a grey box as below will appear, inside which you can write your code.
-- Embed using Github Gist
+  - Embed using Github Gist
   
-  Github Gist is a much more appealing and readable option compared to directly embedding using Medium. Check [This Website](https://medium.com/nerd-for-tech/how-to-embed-code-in-medium-4bd380c8102d) for a tutorial.
+    Github Gist is a much more appealing and readable option compared to directly embedding using Medium. Check [This Website](https://medium.com/nerd-for-tech/how-to-embed-code-in-medium-4bd380c8102d) for a tutorial.
+
+- [PubPub](https://www.pubpub.org/) PubPub is an open-source publishing platform for open access to content. PubPub supports some latex features and is handy to use. PubPub is a quite new platform but it provides a lot of official instruction and guidelines. Check this [guideline](https://v3.pubpub.org/pub/howto) to get started.
+  - Check this [website](https://www.pubpub.org/explore) for example pubs created by PubPub.
+  - [PubPub Help](https://help.pubpub.org/) The PubPub helping page provides a lot of useful information, you can get solutions to most problems here.
+
+- [Whimsical](https://whimsical.com/) Whimsical is a handy, easy-to-use web application for creating beautiful and neat graphical content such as a flowchart. Check out their [official YouTube channel](https://www.youtube.com/channel/UCpiKdJs1taP6RrHFDk7qJbg) for more details. 
+- [Canva](https://www.canva.com/) Canva is a graphic design platform that can be used for various types of visual content. Check this [YouTube video](https://www.youtube.com/watch?v=zJSgUx5K6V0) to get started.
+- [Bit.Ai](https://bit.ai/) Bit.Ai is an online application for creating online documents with collaborations. Check the [official YouTube channel](https://www.youtube.com/channel/UCSbFubL7MpMdykzjeagICQg) for tutorials and more instructions.
+- [zoho](https://www.zoho.com/index1.html) Zoho is a web-based online office integrating a lot of business functionalities including word processing, database, conferencing, etc. Watch this [YouTube Video](https://www.youtube.com/watch?v=sdToWprokPw) to get started.
+- Animation Open Source Software:
+  - [manim](https://github.com/3b1b/manim) Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Check [documentation](https://3b1b.github.io/manim/) for more detail.
+  - [Krita](https://krita.org/en/) Krita is a painting application with functionalities for making frame-by-frame animations. Check this [YouTube Video](https://www.youtube.com/watch?v=48pwrr4gPOA) for the tutorial.
+  - [matplotlib](https://matplotlib.org/) You can also create animation with matplotlib. Check this [Article](https://www.youtube.com/watch?v=48pwrr4gPOA) for the tutorial.
+  - [blender](https://matplotlib.org/) Blender is an open-source 3D animation software. Check this [YouTube Series](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD) for the tutorial.

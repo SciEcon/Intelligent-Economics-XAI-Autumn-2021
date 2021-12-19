@@ -1,6 +1,18 @@
-# oTree Instructions
+# Table of Contents
+
+### [About](#about)
+
+### [Resources](#resources)
+
+### [Step-by-Step Guide](#step-by-step-guide)
+
+### [Conclusion](#conclusion)
 
 ---
+
+## About
+
+oTree is an open-source platform for making surveys and experiments. In this tutorial, we describe how to make a simple questionnaire application with oTree, covering the use of oTreeHub, modifying the oTree application on PyCharm, and how to run and release the oTree application on local and online platforms.
 
 ## Resources
 
