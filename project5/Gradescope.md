@@ -40,10 +40,12 @@ https://help.gradescope.com/article/vjya9v6fb1-sakai-student
 
 # How Gradescope: A step-by-step guide
 
+
+
 <!-- ![How Gradescope](images/How_Gradescope.png) -->
 
 <p align="center"><img src=images/How_Gradescope.png></p>
-<p align="center"><b>Figure 1: The Gradescope [Pipeline](https://help.gradescope.com/category/nvr9q1hik4-instructor-course-workflow)</b></p>
+<p align="center"><b>Figure 1: The Gradescope <a href= "https://help.gradescope.com/category/nvr9q1hik4-instructor-course-workflow">Pipeline </a></b></p>
 <p align="center">Create by [whimsical](https://whimsical.com/gradescope-H4ZW3cax6Tz15ugPrGZzfG@2Ux7TurymNJZpD75oDUj)</p>
 
 <!-- ***Figure 1: The Gradescope Pipeline*** -->
