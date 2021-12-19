@@ -27,9 +27,10 @@ In the first four sections, we introduce each software by providing the referenc
 
 <p align="center">
     <img src=images/nashpy.png>
+    Figure 1: The functionings of Nashpy
 </p>
 
-***Figure 1: The functionings of Nashpy***
+
 
 ## 2. License
 Nashpy is Free/Open Source software, released under the terms of the MIT License.
