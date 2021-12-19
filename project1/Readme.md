@@ -28,7 +28,8 @@ In the first four sections, we introduce each software by providing the referenc
 <p align="center">
     <img src=images/nashpy.png>
 </p>
-Figure 1: The functionings of Nashpy
+
+***Figure 1: The functionings of Nashpy***
 
 ## 2. License
 Nashpy is Free/Open Source software, released under the terms of the MIT License.
@@ -46,7 +47,8 @@ In this [Colab Notebook 1: NashPy](https://github.com/SciEcon/Intelligent-Econom
 
 ![QuantEcon flowchart](images/QuantEcon.png)
 
-Figure 2.1:QuantEcon overview
+***Figure 2.1:QuantEcon overview***
+
 ## 2. License
 Nashpy is Free/Open Source software, released under the terms of the BSD-3-Clause License.
 ## 3. Required Citation
@@ -56,7 +58,7 @@ Chart 2.2 Represents the pipeline to solve for Nash Equilibrium (NE) of Battle o
 
 ![Battle of Sexes](images/Battle-of-sex.png)
 
-Figure 2.2:QuantEcon Examples - Battle of Sexes
+***Figure 2.2:QuantEcon Examples - Battle of Sexes***
 
 
 
@@ -75,7 +77,7 @@ Figure 3 demonstrate how we create the game tree successfully and solve for the 
 
 ![GTE](images/GTE.png)
 
-Figure 3: Chart for Game Theory Explorer example
+***Figure 3: Chart for Game Theory Explorer example***
 
 
 
@@ -85,7 +87,7 @@ Figure 3: Chart for Game Theory Explorer example
 [Gambit](http://www.gambit-project.org/) is an open-source collection of tools for doing computation in game theory ([Gambit](http://www.gambit-project.org), 2017). It provides a graphical interface to help get intuition about simple games and command-line tools and Python scripting API to support practical applications. However, the Python API is sometimes not stable and the graphical interface is more recommended. Check [official website](http://www.gambit-project.org/) to get started with Gambit.
 ![Gambit](images/Gambit.png)
 
-Figure 4: Gambit overview
+***Figure 4: Gambit overview***
 
 ### 2. License
 Gambit is Free/Open Source software, released under the terms of the GNU General Public License.
@@ -98,7 +100,7 @@ Here we provide an example of solving an imperfect information game with Gambit.
     <img src=images/Gambit2.png>
 </p>
 
-Figure 5: Construct and solve imperfect information game with Gambit
+***Figure 5: Construct and solve imperfect information game with Gambit***
 
 
 # Mesa
@@ -110,7 +112,7 @@ Figure 5: Construct and solve imperfect information game with Gambit
 
 ![Mesa](images/mesa.png)
 
-Figure 6: Mesa Overview
+***Figure 6: Mesa Overview***
 ### 2. License
 Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
 ### 3. Required Citation
@@ -121,11 +123,11 @@ In the [Colab Notebook 3: Mesa](https://github.com/SciEcon-GameTheory/mesa_based
     <img src=images/persudo.png>
 </p>
 
-Figure 7.1: Mesa Example 1: Pseudo Code
+***Figure 7.1: Mesa Example 1: Pseudo Code***
 
 ![Mesa2](images/mesa2.png)
 
-Figure 7.2: Mesa example 2: the Pipeline
+***Figure 7.2: Mesa example 2: the Pipeline***
 
 
 
