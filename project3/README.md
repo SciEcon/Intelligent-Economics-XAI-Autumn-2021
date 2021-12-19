@@ -37,7 +37,7 @@ Neural Network Playground is a Free/Open Source software, released under the ter
 M. Abadi, A. Agarwal, P. Barham, E. Brevdo, Z. Chen, C. Citro, G. S. Corrado, A. Davis, J. Dean, M. Devin, S. Ghemawat, I. Goodfellow, A. Harp, G. Irving, M. Isard, Y. Jia, R. Jozefowicz, L. Kaiser, M. Kudlur, J. Levenberg, D. Man´e, R. Monga, S. Moore, D. Murray, C. Olah, M. Schuster, J. Shlens, B. Steiner, I. Sutskever, K. Talwar, P. Tucker, V. Vanhoucke, V. Vasudevan, F. Vi´egas, O. Vinyals, P. Warden, M. Wattenberg, M. Wicke, Y. Yu, and X. Zheng. TensorFlow: Large-scale machine learning on heterogeneous systems, 2015. Software available from tensorflow.org.
 ## 4. Example
 ![Neural Network](images/Neural_Network.png)
-***Figure 1: Neural Network Playground Example ***
+***Figure 1: Neural Network Playground Example***
 
 
 # TensorFlow
@@ -121,7 +121,7 @@ Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-28
 Figure 2 shows how scikit-learn can be used to recognize images of hand-written digits, from 0-9. Check [Colab Notebook: scikit-learn hand-written digits recognition](https://github.com/SciEcon/Intelligent-Economics/blob/main/project3/plot_digits_classification.ipynb) for more details.
 
 ![Scikit2](images/scikit-learn2.png)
-***Figure 4: Neural Network Playground Example ***
+***Figure 4: Neural Network Playground Example***
 
 
 # Keras
