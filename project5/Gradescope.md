@@ -40,7 +40,13 @@ https://help.gradescope.com/article/vjya9v6fb1-sakai-student
 
 # How Gradescope: A step-by-step guide
 
-![Whimsical Chart](images/How_Gradescope.png)
+<!-- ![How Gradescope](images/How_Gradescope.png) -->
+
+<p align="center"><img src=images/How_Gradescope.png></p>
+<p align="center"><b><i>Figure 1: The Gradescope [Pipeline](https://help.gradescope.com/category/nvr9q1hik4-instructor-course-workflow)</i></b></p>
+<p align="center"><b><i>Create by [whimsical](https://whimsical.com/gradescope-H4ZW3cax6Tz15ugPrGZzfG@2Ux7TurymNJZpD75oDUj)</i></b></p>
+
+<!-- ***Figure 1: The Gradescope Pipeline*** -->
 
 By enabling Gradescope as a tool in Sakai, the instructor and students can directly have the access to Gradescope website for assignment submission and grading. For the instructor, through syncing the Sakai course site to the corresponding Gradescope course, rosters and future grade posting will be automatically implemented from Gradescope to Sakai. After the sync is done, instructors can start to set up Gradescope assignments according to their demands, such as problem sets, quizzes, code assignments, or other customized homework formats created by beta version, where it also allows individual or group submission. After the deadline, the instructor can start to grade students’ submissions based on imported or designed rubrics, and it can be synced directly with the corresponding assignment in Sakai, thus students can check their grades either from Sakai or Gradescope. Every submission will be evaluated on an individual basis properly, with clear comments and grades based on rubrics. It is also convenient for students to check their grades and feedback directly from Gradescope.
 
