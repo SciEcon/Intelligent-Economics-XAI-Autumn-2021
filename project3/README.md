@@ -69,7 +69,7 @@ Figure 3 demonstrate how we create the game tree successfully and solve for the 
 [ELI5](https://eli5.readthedocs.io/en/latest/overview.html) is a Python library which allows users to visualize and debug various Machine Learning models using the unified API. It has built-in support for several ML frameworks and provides a way to explain black-box models ([ELI5](https://eli5.readthedocs.io/en/latest/overview.html), 2017).
 
 ### 2. License
-Eli5 is a Free/Open Source software, released under BSD. 
+Eli5 is a Free/Open Source software, released under the BSD license. 
 ### 3. Required Citation
 Angela Fan, Yacine Jernite, Ethan Perez, David Grangier, Jason Weston, Michael Auli. ELI5: Long Form Question Answering, Proceedings of ACL 2019. 
 
