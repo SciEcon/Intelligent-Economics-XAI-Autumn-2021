@@ -14,13 +14,15 @@
 
 ### [7. Statsmodel](#Statsmodel)
 
-### [8. SKlearn (scikit-learn)](#SKlearn-(scikit-learn))
+### [8. Pingouin](#Pingouin)
 
-### [9. Keras](#Keras)
+### [9. SKlearn (scikit-learn)](#SKlearn-(scikit-learn))
 
-### [10. FinTA](#FinTA)
+### [10. Keras](#Keras)
 
-### [11. Kaggle Kernel](#Kaggle-Kernel)
+### [11. FinTA](#FinTA)
+
+### [12. Kaggle Kernel](#Kaggle-Kernel)
 
 
 # Introduction
@@ -97,7 +99,7 @@ Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, D
 [Statsmodels](https://www.statsmodels.org/) is a Python package that allows users to browse, estimate statistical models, and perform statistical tests.
 
 ### 2. License
-Statsmodel is a Free/Open Source software, released under the open source Modified BSD (3-clause) license.
+Statsmodel is a free and open-source software, released under the open-source Modified BSD (3-clause) license.
 ### 3. Required Citation
 Seabold, S., & Perktold, J. statsmodels: Econometric and statistical modeling with python. 2010. In 9th Python in Science Conference.
 
@@ -107,7 +109,7 @@ Seabold, S., & Perktold, J. statsmodels: Econometric and statistical modeling wi
 [Pingouin](https://pingouin-stats.org/index.html) is an open-source statistical package written in Python 3 and based mostly on Pandas and NumPy ([Pingouin](https://pingouin-stats.org), 2021). 
 
 ### 2. License
-Pingouin is a Free/Open Source software, released under the GNU General Public License v3.0.
+Pingouin is a free and open-source software, released under the GNU General Public License v3.0.
 ### 3. Required Citation
 Vallat, R. (2018). Pingouin: statistics in Python. Journal of Open Source Software, 3(31), 1026, https://doi.org/10.21105/joss.01026
 
@@ -124,7 +126,7 @@ Vallat, R. (2018). Pingouin: statistics in Python. Journal of Open Source Softwa
 ***Figure 3: SKlearn flowchart*** -->
 
 ### 2. License
-Scikit-learn is open source and free to use under the BSD License.
+Scikit-learn is open source and free to use software under the BSD License.
 ### 3. Required Citation
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
 ### 4. Example
@@ -142,7 +144,7 @@ Figure 2 shows how scikit-learn can be used to recognize images of hand-written 
 [Keras](https://keras.io/) is an open-source neural network library written in Python that can be run on TensorFlow, Microsoft Cognitive Toolkit, Theano, and PlaidML.
 
 ### 2. License
-Scikit-learn is open source and free to use under the MIT License.
+Scikit-learn is open-source and free to use software under the MIT License.
 
 ### 3. Required Citation
 Chollet, F., & others. (2015). Keras. GitHub. Retrieved from https://github.com/fchollet/keras
@@ -152,7 +154,7 @@ Chollet, F., & others. (2015). Keras. GitHub. Retrieved from https://github.com/
 ### 1. Introduction
 [FinTA (Financial Technical Analysis)](https://pypi.org/project/finta/0.3.3/) is a python package which provides common financial technical indicators implemented in Pandas ([FinTA](https://pypi.org/project/finta/0.3.3/), 2018).
 ### 2. License
-FinA is open source and free to use under LGPL-3.0 license. 
+FinA is open-source and free to use software under the LGPL-3.0 license. 
 ### 3. Required Citation
 Pauli Virtanen, Ralf Gommers, Travis E. Oliphant, Matt Haberland, Tyler Reddy, David Cournapeau, Evgeni Burovski, Pearu Peterson, Warren Weckesser, Jonathan Bright, Stéfan J. van der Walt, Matthew Brett, Joshua Wilson, K. Jarrod Millman, Nikolay Mayorov, Andrew R. J. Nelson, Eric Jones, Robert Kern, Eric Larson, CJ Carey, İlhan Polat, Yu Feng, Eric W. Moore, Jake VanderPlas, Denis Laxalde, Josef Perktold, Robert Cimrman, Ian Henriksen, E.A. Quintero, Charles R Harris, Anne M. Archibald, Antônio H. Ribeiro, Fabian Pedregosa, Paul van Mulbregt, and SciPy 1.0 Contributors. (2020) SciPy 1.0: Fundamental Algorithms for Scientific Computing in Python. Nature Methods, 17(3), 261-272.
 
