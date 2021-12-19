@@ -112,7 +112,7 @@ Vallat, R. (2018). Pingouin: statistics in Python. Journal of Open Source Softwa
 
 ![Scikit1](images/scikit-learn.png)
 
-***Figure 3: Neural Network Playground Example***
+***Figure 3: SKlearn flowchart***
 
 ### 2. License
 Scikit-learn is open source and free to use under the New BSD License.
@@ -123,7 +123,7 @@ Figure 2 shows how scikit-learn can be used to recognize images of hand-written 
 
 ![Scikit2](images/scikit22.png)
 
-***Figure 4: Neural Network Playground Example***
+***Figure 4: SKlearn Example***
 
 
 # Keras
