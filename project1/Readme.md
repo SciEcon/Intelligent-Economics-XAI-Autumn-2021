@@ -27,9 +27,8 @@ In the first four sections, we introduce each software by providing the referenc
 
 <p align="center">
     <img src=images/nashpy.png>
-    <p>Figure 1: The functionings of Nashpy</p>
 </p>
-
+<center>Figure 1: The functionings of Nashpy</center>
 
 
 ## 2. License
