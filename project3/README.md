@@ -121,7 +121,7 @@ Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-28
 ### 4. Example
 Figure 2 shows how scikit-learn can be used to recognize images of hand-written digits, from 0-9. Check [Colab Notebook: scikit-learn hand-written digits recognition](https://github.com/SciEcon/Intelligent-Economics/blob/main/project3/plot_digits_classification.ipynb) for more details.
 
-![Scikit2](images/scikit-learn2.png)
+![Scikit2](images/scikit22.png)
 
 ***Figure 4: Neural Network Playground Example***
 
