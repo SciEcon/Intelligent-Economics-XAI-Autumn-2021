@@ -19,24 +19,14 @@
 [Gradescope](https://www.gradescope.com/) can help the instructor to properly administer and grade all of the assessments, no matter online or in-class. It is designed to save grading time by enabling scalable assessment in different subjects, including Computer Science, Economics, Mathematics, Engineering, etc ([Singh et al, 2017](https://dl.acm.org/doi/pdf/10.1145/3051457.3051466)). It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports [a quick and flexible grading experience](https://learninginnovation.duke.edu/gradescope/) by applying detailed feedback with a simple click. Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential [AI-assisted grading experience](https://help.gradescope.com/article/mv8qkiux00-instructor-assignment-ai-grading-answer-groups) by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by groups. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.　
 
 ## Gradescope Resources
-Gradescope Official Website: https://www.gradescope.com/
-
-Gradescope YouTube Channel: https://www.youtube.com/user/Gradescope/featured
-
-Gradescope at Duke: https://learninginnovation.duke.edu/gradescope/
-
-Gradescope help center: https://help.gradescope.com/
-
-Student Center: https://help.gradescope.com/category/cyk4ij2dwi-student-workflow
-
-FAQs: https://help.gradescope.com/category/czisb9ar5e-faq
-
-Using Gradescope with Sakai as an Instructor: 
-https://help.gradescope.com/article/4sma4yasea-sakai-instructor
-
-Using Gradescope with Sakai as a Student:
-https://help.gradescope.com/article/vjya9v6fb1-sakai-student
-
+- Gradescope Official Website: https://www.gradescope.com/
+- Gradescope YouTube Channel: https://www.youtube.com/user/Gradescope/featured
+- Gradescope at Duke: https://learninginnovation.duke.edu/gradescope/
+- Gradescope help center: https://help.gradescope.com/
+- Student Center: https://help.gradescope.com/category/cyk4ij2dwi-student-workflow
+- FAQs: https://help.gradescope.com/category/czisb9ar5e-faq
+- Using Gradescope with Sakai as an Instructor: https://help.gradescope.com/article/4sma4yasea-sakai-instructor
+- Using Gradescope with Sakai as a Student: https://help.gradescope.com/article/vjya9v6fb1-sakai-student
 
 # How Gradescope: A step-by-step guide
 
@@ -90,39 +80,45 @@ In general, we ask students to submit their assignments to Gradescope and we use
 
 <p align="center"><img src=images/Figure_2.png></p>
 <p align="center"><b>Figure 2: 5 General Functions in Gradescope</b></p>
-<p align="center">Create by <a href= "">whimsical </a></p>
+<p align="center">Create by <a href= "https://whimsical.com/figure-2-5-general-functions-in-gradescope-XdmMm4dtApMVtJsegtSH9M@2Ux7TurymMrm1o2PJK2s">whimsical </a></p>
 
 <!-- ***Figure 2: 5 General Functions in Gradescope*** -->
 
 
 There are 5 functional pages in Gradescope:
 
-Dashboard (visible in student view): Allows students and instructors to view the active assignments and course description.
+- **Dashboard (visible in student view)**: Allows students and instructors to view the active assignments and course description.
+- **Assignments (invisible in student view)**: Allows instructors and TAs to check the status of the assignments.
+- **Roster (invisible in student view)**: Allows instructors and TAs to add or delete course members.
+- **Extensions (invisible in student view)**: Allows instructors and TAs to add specific time extensions to assignments.
+- **Course Settings (invisible in student view)**: Allows instructors and TAs to set up the course and customize the grading styles.
 
-Assignments (invisible in student view): Allows instructors and TAs to check the status of the assignments.
+In each assignment, we use the [beta version](https://help.gradescope.com/article/gm5cmcz19k-instructor-assignment-online) to add sub-questions under one assignment. Figures 3 shows the functionality of Gradescope in grading assignments:
 
-Roster (invisible in student view): Allows instructors and TAs to add or delete course members.
+<!-- ![4 Grading Functions in Gradescope](images/Figure_3.png) -->
 
-Extensions (invisible in student view): Allows instructors and TAs to add specific time extensions to assignments.
+<p align="center"><img src=images/Figure_3.png></p>
+<p align="center"><b>Figure 3: 4 Grading Functions in Gradescope</b></p>
+<p align="center">Create by <a href= "https://whimsical.com/figure-3-4-grading-functions-in-gradescope-8CQrG1KBRyC3icgTaRSxrj@2Ux7TurymNCqvn8Vaw6N">whimsical </a></p>
 
-Course Settings (invisible in student view): Allows instructors and TAs to set up the course and customize the grading styles.
-
-In each assignment, we use the beta version to add sub-questions under one assignment. Figures 6-9 show the functionality of Gradescop in grading assignments:
-
-![Figure6-9](images/Figure6-9.png)
+<!-- ***Figure 3: 4 Grading Functions in Gradescope*** -->
 
 There are 4 functional pages in each assignment grading process that are not visible in student view:
 
-Edit Outline: Allows instructors and TAs to edit the questions of the assignments.
+- **Edit Outline**: Allows instructors and TAs to edit the questions of the assignments.
+- **Manage Submissions**: Allows instructors and TAs to view the information of the submissions and review or delete any submission.
+- **Grade Submissions**: Allow instructors and TAs to view the submission under each sub-question.
+- **Review Grades**: Provides statistics of the grading and allows instructors or TAs to review the assignments.
 
-Manage Submissions: Allows instructors and TAs to view the information of the submissions and review or delete any submission.
+<!-- ![Grading with rubrics in Gradescope](images/Figure_4.png) -->
 
-Grade Submissions: Allow instructors and TAs to view the submission under each sub-question.
+<p align="center"><img src=images/Figure_4.png></p>
+<p align="center"><b>Figure 4: Grading with rubrics in Gradescope</b></p>
+<p align="center">Create by <a href= "https://whimsical.com/figure-4-AJ3X7vxx9CXuoSUvxYCBpD@2Ux7TurymNBkCDYxMv6D">whimsical </a></p>
 
-Review Grades: Provides statistics of the grading and allows instructors or TAs to review the assignments.
+<!-- ***Figure 4: Grading with rubrics in Gradescope*** -->
 
-![Sample grading page](images/Figure10.png)
-Figure 10 shows how instructors and TAs are able to grade the assignments with grading rubrics.
+Figure 4 shows how instructors and TAs are able to grade the assignments with grading rubrics.
 
 Pros:
 1. **Clear rubrics feedback**: Students are able to get detailed feedback according to the grading rubrics and any extra comments.
@@ -130,24 +126,37 @@ Pros:
 2. **Specific answer position**: TAs and instructors can set up specific answer formats and the students can tag their answers in a certain place, which reduces the complexity in assignment grading.
 
 Cons:
-1. **Low tolerance for large files**: Gradescope requires instructors/TAs to download the large files to view the assignments. However, the tolerance is not very high since ___(to be filled with checks).
+1. **Low tolerance for large files**: Gradescope requires instructors/TAs to download the large files for view, and it would cause some trouble when grading.
 
 2. **Comments on certain positions in the essay**: Gradescope does not allow instructors/TAs to address in-text comments in certain positions.
 
+3. **Unable to check duplicate results directly**: Even though Turnitin and Gradescope are [two services from the same company](https://www.turnitin.com/press/turnitin-acquires-gradescope), there is still no interface connected between these two services to enable instructors to check duplicate results directly. 
+
 # Code Assignment
-*Econ 211, Problem Set 3, Code Assignment*
+
+In the course Econ 211 Intelligent Economics: An Explanable AI Approach, Autumn 2021, Session 2 at Duke Kunshan University, we use Gradescope for 3 Essay Assignments. In the Assignments, students are asked to upload the PDF of the Python Notebook, especially [Colab](https://research.google.com/colaboratory/), with all the math formulas and visualization generated for grading.
 
 Pros: 
-Not obvious.
+
+**Handy [code similarity check](https://help.gradescope.com/article/3vr6x46ppn-instructor-assignment-programming-code-similarity)**: Code Similarity helps to determine how students’ codes are similar to each other. It does not demonstrate whether plagiarism exists but rather shows you to what extent two programs are similar to each other. At present, it supports the following coding languages: C, C++, C#, F#, Go, Java, JavaScript, Matlab, MIPS, ML, Python, and R.
 
 Cons: 
-1. **Code editing environment not provided**
+1. **Code editing environment not provided**:
 Gradescope does not provide an online editing environment like Google Colab. In other words, Gradescope does not allow students to edit coding assignments directly on its platform. Therefore, what we did is to provide a Google Colab template for students to download and after they finish coding in their own environments, they need to upload the file again to Gradescope for grading.
 
-2. **Rubrics cannot be uploaded without a sample answer**
+2. **Rubrics cannot be uploaded without a sample answer**:
 Gradescope does not allow the editors to generate rubrics unless a sample answer is uploaded.
 
-3. **It is not a great way for grading assignments containing both code and text**
+3. **It is not a great way for grading assignments containing both code and text**:
 Gradescope provides an interface to let you write your own auto-grader for grading coding assignments. However, lots of Data Science related assignments are not proper to use as an auto-grader, because the code is used for solving a specific problem in many cases. Therefore, you are not able to use different inputs to test the universality of the code.
 
 # The future of grading
+**Helen Papagiannis (2017) says in her book** ***[Augmented Human: How Technology Is Shaping the New Reality](https://www.amazon.com/Augmented-Human-Technology-Shaping-Reality/dp/1491928328)***: “When we move away from copying reality, AR, in general, will be liberated from the burden of simulating the real, with the creative doors wide open to new modes of expression and invention.” We believe the future of grading shall be at the interplay of Artificial Intelligence and Human Intelligence, i.e., a higher level of automation, humanity, and intelligence.  
+
+1. **Automation**: We can implement [smart contracts](https://www.investopedia.com/terms/s/smart-contracts.asp) for an automated pipeline of duplication audit, prerequisite scrutiny, and auto-grading. 
+
+2. **Humanity**: We can make the technology more inclusive by providing an empathetic user experience for instructions, TAs, and students with not a strong technical background. 
+
+3. **Intelligence**: We can utilize [asymmetric cryptography](https://www.sciencedirect.com/topics/computer-science/asymmetric-cryptography) and [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) technology to protect the privacy of students.
+
+
