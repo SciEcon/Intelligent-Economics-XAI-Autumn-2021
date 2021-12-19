@@ -1,7 +1,7 @@
 # Table of Contents
 
 
-### [1. Introduction](#Introduction)
+### [1. Introduction to Gradescope Resources](#Introduction-to-Gradescope-Resources)
 
 ### [2. How Gradescope: A step-by-step guide](#How-Gradescope-A-step-by-step-guide)
 
@@ -13,54 +13,87 @@
 
 ### [6. The future of grading](#The-future-of-grading)
 
-# 1.Introduction 
+# Introduction to Gradescope Resources
 
-Gradescope can help the instructor to properly administer and grade all of the assessments, no matter online or in-class, and it is designed to save time grading and get a clear picture of how the students are doing. This platform supports all subjects to be graded, including Computer Science, Economics, Mathematics, Engineering, etc. It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports a quick and flexible grading experience by applying detailed feedback with a simple click. Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential AI-assisted grading experience by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by group. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.
+## About Gradescope
+[Gradescope](https://www.gradescope.com/) can help the instructor to properly administer and grade all of the assessments, no matter online or in-class. It is designed to save grading time by enabling scalable assessment in different subjects, including Computer Science, Economics, Mathematics, Engineering, etc ([Singh et al, 2017](https://dl.acm.org/doi/pdf/10.1145/3051457.3051466)). It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports [a quick and flexible grading experience](https://learninginnovation.duke.edu/gradescope/) by applying detailed feedback with a simple click. Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential [AI-assisted grading experience](https://help.gradescope.com/article/mv8qkiux00-instructor-assignment-ai-grading-answer-groups) by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by groups. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.　
 
-# 2.How Gradescope: A step-by-step guide
+## Gradescope Resources
+Gradescope Official Website: https://www.gradescope.com/
 
-![Whimsical Chart](images/How_Gradescope.png)
+Gradescope YouTube Channel: https://www.youtube.com/user/Gradescope/featured
 
-By enabling Gradescope as a tool in Sakai, the instructor and students can directly have the access to Gradescope website for assignment submission and grading. For the instructor, through syncing the Sakai course site to the corresponding Gradescope course, rosters and future grade posting will be automatically implemented from Gradescope to Sakai. After the sync is done, instructors can start to set up Gradescope assignments according to their demands, such as problem sets, quizzes, code assignments, or other customized homework formats created by beta version, where it also allows individual or group submission. After the deadline, the instructor can start to grade students’ submissions based on imported or designed rubrics, and it can be synced directly with the corresponding assignment in Sakai, thus students can check their grades either from Sakai or Gradescope. Every submission will be evaluated on an individual basis properly, with clear comments and grades based on rubrics. It is also convenient for students to check their grades and feedback directly from Gradescope.
+Gradescope at Duke: https://learninginnovation.duke.edu/gradescope/
 
-# 3. Pros and Cons
+Gradescope help center: https://help.gradescope.com/
 
-Summary:
+Student Center: https://help.gradescope.com/category/cyk4ij2dwi-student-workflow
 
-Gradescope is generally a user-friendly integrated platform for assignment submission and grading. We have figured out several pros and cons in our use as both students and TAs. We highly appreciate the integrated functionality of Gradescope but think some details need more attention. 
+FAQs: https://help.gradescope.com/category/czisb9ar5e-faq
 
-Pros:
+Using Gradescope with Sakai as an Instructor: 
+https://help.gradescope.com/article/4sma4yasea-sakai-instructor
+
+Using Gradescope with Sakai as a Student:
+https://help.gradescope.com/article/vjya9v6fb1-sakai-student
+
+
+# How Gradescope: A step-by-step guide
+
+<!-- ![How Gradescope](images/How_Gradescope.png) -->
+
+<p align="center"><img src=images/How_Gradescope.png></p>
+<p align="center"><b>Figure 1: The Gradescope <a href= "https://help.gradescope.com/category/nvr9q1hik4-instructor-course-workflow">Pipeline </a></b></p>
+<p align="center">Create by <a href= "https://whimsical.com/gradescope-H4ZW3cax6Tz15ugPrGZzfG@2Ux7TurymNJZpD75oDUj">whimsical </a></p>
+
+<!-- ***Figure 1: The Gradescope Pipeline*** -->
+
+By enabling Gradescope as a tool in [Learning Management Systems (LMSs)](https://help.gradescope.com/category/neowy136jk-lms-workflow), such as [Sakai](https://help.gradescope.com/article/4sma4yasea-sakai-instructor), the instructor and students can directly have the access to Gradescope website for assignment submission and grading. For the instructor, through syncing the Sakai course site to the corresponding Gradescope course, rosters and future grade posting will be automatically implemented from Gradescope to Sakai. After the sync is done, instructors can start to set up Gradescope assignments according to their demands, such as problem sets, quizzes, code assignments, or other customized homework formats created by beta version, where it also allows individual or group submission. After the deadline, the instructor can start to grade students’ submissions based on imported or designed rubrics, and it can be synced directly with the corresponding assignment in Sakai, thus students can check their grades either from Sakai or Gradescope. Every submission will be evaluated on an individual basis properly, with clear comments and grades based on rubrics. It is also convenient for students to check their grades and feedback directly from Gradescope.
+
+# Pros and Cons
+
+## Summary:
+
+Gradescope is generally a user-friendly integrated platform for assignment submission and grading. For example, [Yen et al (2020)](https://dl.acm.org/doi/pdf/10.1145/3386527.3406748) point out that Gradescope helps the instructor to reduce the grading times of short-answer problems to a large extent. We have also figured out several pros and cons in experiential learning of acting the roles of students, Teaching Assistants (TAs), and instructors. We highly appreciate the integrated functionality of Gradescope but also identify issues for further improvements.
+
+## Pros:
+
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 
-(1) upload assignments and attachments;
+- upload assignments and attachments;
+- set up sub-questions and specific answer positions with the beta version;
+- upload grading rubrics, grade by rubrics, and add additional comments;
+- review, post, and export grades;
+- provide instant feedback to students;
+- receive [regrade requests](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) from students.
 
-(2) set up sub-questions and specific answer positions with the beta version;
-
-(3) upload grading rubrics and add additional comments;
-
-(4) review and export grades, and students to upload their assignments with tags for every question.
-
-2. **Free access and connection with Sakai**: Gradescope is connected with Sakai, which provides free access for instructors, TAs, and students.
+2. **Free access and connection with a broad range of Learning Management Systems (LMS), such as [Sakai](https://sakai.duke.edu/)**: Gradescope is connected with Sakai, which allows posting grades to Sakai with just one click.
 
 3. **User-friendly operations**: The web pages of Gradescope are clear and instructive. Users can easily customize the assignments and grading procedure.
 
-Cons:
+## Cons:
+
 1. **Rubrics uploading**: The grading rubrics can only be uploaded after at least one submission of the assignment. And the rubrics cannot be replicated from another assignment.
 
-2. **Auto-grading tools**: There are no auto-grading tools to grade the assignments.
+2. **Auto-grading tools**: It is a bit complicated to implement auto-grading tools to grade the assignments.
 
 3. **Complex assignment grading**: Complex assignment grading can only be done by setting sub-questions. And there are no logic settings within the sub-questions.
 
-# 4. Essay Assignment
-*ECON 101, 3 Problem Set, Essay, Prerequisite Require Document 1-3*
+# Essay Assignment
 
-In ECON 101, we have in total 3 problem sets that use Gradescope. In each problem set, the students are asked to write a 3-part essay with a flow chart and several illustrative figures and tables. For the problem set assignments, we have the following help documentation: 
+In the course Econ101 Economic Principles, Autumn 2021, Session 1 at Duke Kunshan University, we use Gradescope for 3 Essay Assignments. In the Assignments, students are asked to submit the PDF of the essay, along with [Grammarly](https://www.grammarly.com/) Screenshot and [Turnitin](https://www.turnitin.com/zh-hans) duplicate checking screenshot as prerequisites for grading. 
 
-[[Problem Set 1 Instruction]](https://docs.google.com/document/d/1cZMQYbtZd3Sw7hyOwshi7U2tjQSZL0od/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Problem Set 2 Instruction]](https://docs.google.com/document/d/1NA9faMbosO5zie6oeKeX60zaCCwBfbB8/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Problem Set 3 Instruction]](https://docs.google.com/document/d/1XNeI5_ZI2T2FrmHYdPYR7ypterwWhb8Q/edit?usp=sharing&ouid=100834953244531798659&rtpof=true&sd=true)[[Submission Guideline]](https://drive.google.com/file/d/1TLadPgDNYDeiUFhrL4EqoYlm2pC38mT9/view?usp=sharing)[[Requirements/Grading Rubrics]](https://drive.google.com/file/d/1nMqJ7Og6LzbxdGp0Sbj1X_ZhECcSPons/view?usp=sharing)
+In general, we ask students to submit their assignments to Gradescope and we use it for grading. Figure 2 shows some general functions of Gradescope that we have utilized:
 
-In general, we ask students to submit their assignments onto Gradescope and we use it for grading. Figures 1-5 show the functionality of Gradescope:
 
-![Figure1-5](images/Figure1-5.png)
+<!-- ![5 General Functions in Gradescope](images/Figure_2.png) -->
+
+<p align="center"><img src=images/Figure_2.png></p>
+<p align="center"><b>Figure 2: 5 General Functions in Gradescope</b></p>
+<p align="center">Create by <a href= "">whimsical </a></p>
+
+<!-- ***Figure 2: 5 General Functions in Gradescope*** -->
+
 
 There are 5 functional pages in Gradescope:
 
@@ -101,7 +134,7 @@ Cons:
 
 2. **Comments on certain positions in the essay**: Gradescope does not allow instructors/TAs to address in-text comments in certain positions.
 
-# 5. Code Assignment
+# Code Assignment
 *Econ 211, Problem Set 3, Code Assignment*
 
 Pros: 
@@ -117,4 +150,4 @@ Gradescope does not allow the editors to generate rubrics unless a sample answer
 3. **It is not a great way for grading assignments containing both code and text**
 Gradescope provides an interface to let you write your own auto-grader for grading coding assignments. However, lots of Data Science related assignments are not proper to use as an auto-grader, because the code is used for solving a specific problem in many cases. Therefore, you are not able to use different inputs to test the universality of the code.
 
-# 6. The future of grading
+# The future of grading
