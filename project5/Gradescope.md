@@ -1,30 +1,30 @@
 # Table of Contents
 
 
-### [1. Introduction to Gradescope Resources](#1-Introduction-to-Gradescope-Resources)
+### [1. Introduction to Gradescope Resources](#Introduction-to-Gradescope-Resources)
 
-### [2. How Gradescope: A step-by-step guide](#2-How-Gradescope-A-step-by-step-guide)
+### [2. How Gradescope: A step-by-step guide](#How-Gradescope-A-step-by-step-guide)
 
-### [3. Pros and Cons](#3-Pros-and-Cons)
+### [3. Pros and Cons](#Pros-and-Cons)
  
-### [4. Essay Assignment](#4-Essay-Assignment)
+### [4. Essay Assignment](#Essay-Assignment)
 
-### [5. Code Assignment](#5-Code-Assignment)
+### [5. Code Assignment](#Code-Assignment)
 
-### [6. The future of grading](#6-The-future-of-grading)
+### [6. The future of grading](#The-future-of-grading)
 
-# 1.Introduction to Gradescope Resources
+# Introduction to Gradescope Resources
 
-## 1.1. About Gradescope
+## About Gradescope
 Gradescope can help the instructor to properly administer and grade all of the assessments, no matter online or in-class. It is designed to save grading time by enabling scalable assessment in different subjects, including Computer Science, Economics, Mathematics, Engineering, etc (Singh et al, 2017). It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports a quick and flexible grading experience by applying detailed feedback with a simple click. Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential AI-assisted grading experience by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by groups. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.　
 
-# 2.How Gradescope: A step-by-step guide
+# How Gradescope: A step-by-step guide
 
 ![Whimsical Chart](images/How_Gradescope.png)
 
 By enabling Gradescope as a tool in Sakai, the instructor and students can directly have the access to Gradescope website for assignment submission and grading. For the instructor, through syncing the Sakai course site to the corresponding Gradescope course, rosters and future grade posting will be automatically implemented from Gradescope to Sakai. After the sync is done, instructors can start to set up Gradescope assignments according to their demands, such as problem sets, quizzes, code assignments, or other customized homework formats created by beta version, where it also allows individual or group submission. After the deadline, the instructor can start to grade students’ submissions based on imported or designed rubrics, and it can be synced directly with the corresponding assignment in Sakai, thus students can check their grades either from Sakai or Gradescope. Every submission will be evaluated on an individual basis properly, with clear comments and grades based on rubrics. It is also convenient for students to check their grades and feedback directly from Gradescope.
 
-# 3. Pros and Cons
+# Pros and Cons
 
 Summary:
 
@@ -52,7 +52,7 @@ Cons:
 
 3. **Complex assignment grading**: Complex assignment grading can only be done by setting sub-questions. And there are no logic settings within the sub-questions.
 
-# 4. Essay Assignment
+# Essay Assignment
 *ECON 101, 3 Problem Set, Essay, Prerequisite Require Document 1-3*
 
 In ECON 101, we have in total 3 problem sets that use Gradescope. In each problem set, the students are asked to write a 3-part essay with a flow chart and several illustrative figures and tables. For the problem set assignments, we have the following help documentation: 
@@ -102,7 +102,7 @@ Cons:
 
 2. **Comments on certain positions in the essay**: Gradescope does not allow instructors/TAs to address in-text comments in certain positions.
 
-# 5. Code Assignment
+# Code Assignment
 *Econ 211, Problem Set 3, Code Assignment*
 
 Pros: 
@@ -118,4 +118,4 @@ Gradescope does not allow the editors to generate rubrics unless a sample answer
 3. **It is not a great way for grading assignments containing both code and text**
 Gradescope provides an interface to let you write your own auto-grader for grading coding assignments. However, lots of Data Science related assignments are not proper to use as an auto-grader, because the code is used for solving a specific problem in many cases. Therefore, you are not able to use different inputs to test the universality of the code.
 
-# 6. The future of grading
+# The future of grading
