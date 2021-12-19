@@ -40,8 +40,6 @@ https://help.gradescope.com/article/vjya9v6fb1-sakai-student
 
 # How Gradescope: A step-by-step guide
 
-
-
 <!-- ![How Gradescope](images/How_Gradescope.png) -->
 
 <p align="center"><img src=images/How_Gradescope.png></p>
@@ -54,20 +52,19 @@ By enabling Gradescope as a tool in [Learning Management Systems (LMSs)](https:/
 
 # Pros and Cons
 
-Summary:
+## Summary:
 
-Gradescope is generally a user-friendly integrated platform for assignment submission and grading. We have figured out several pros and cons in our use as both students and TAs. We highly appreciate the integrated functionality of Gradescope but think some details need more attention. 
+Gradescope is generally a user-friendly integrated platform for assignment submission and grading. For example, [Yen et al (2020)](https://dl.acm.org/doi/pdf/10.1145/3386527.3406748) point out that Gradescope helps the instructor to reduce the grading times of short-answer problems to a large extent. We have also figured out several pros and cons in experiential learning of acting the roles of students, Teaching Assistants (TAs), and instructors. We highly appreciate the integrated functionality of Gradescope but also identify issues for further improvements.
 
-Pros:
+## Pros:
 1. **The integrated functionalities**: Gradescope allows instructors/TAs to 
 
 (1) upload assignments and attachments;
-
 (2) set up sub-questions and specific answer positions with the beta version;
-
-(3) upload grading rubrics and add additional comments;
-
-(4) review and export grades, and students to upload their assignments with tags for every question.
+(3) upload grading rubrics, grade by rubrics, and add additional comments;
+(4) review, post, and export grades;
+(5) provide instant feedback to students;
+(6) receive [regrade requests](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) from students.
 
 2. **Free access and connection with Sakai**: Gradescope is connected with Sakai, which provides free access for instructors, TAs, and students.
 
