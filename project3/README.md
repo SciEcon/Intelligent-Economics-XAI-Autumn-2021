@@ -111,6 +111,7 @@ Vallat, R. (2018). Pingouin: statistics in Python. Journal of Open Source Softwa
 [Scikit-learn](https://scikit-learn.org/stable/) is a free Python module for machine learning built on top of SciPy. 
 
 ![Scikit1](images/scikit-learn.png)
+
 ***Figure 3: Neural Network Playground Example***
 
 ### 2. License
@@ -121,6 +122,7 @@ Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-28
 Figure 2 shows how scikit-learn can be used to recognize images of hand-written digits, from 0-9. Check [Colab Notebook: scikit-learn hand-written digits recognition](https://github.com/SciEcon/Intelligent-Economics/blob/main/project3/plot_digits_classification.ipynb) for more details.
 
 ![Scikit2](images/scikit-learn2.png)
+
 ***Figure 4: Neural Network Playground Example***
 
 
@@ -153,6 +155,7 @@ FinA is open source and free to use under LGPL-3.0 license.
 Figure 5 shows an example of Kaggle Kernel to do data processing and simple machine learning based on the dataset on Kaggle. Check [this example](https://www.kaggle.com/chenyuwangcw417/demo-code) for more details. 
 
 ![Kaggle](images/kaggle.png)
+
 ***Figure 5: Kaggle Kernel Example***
 
 
