@@ -41,7 +41,7 @@ M. Abadi, A. Agarwal, P. Barham, E. Brevdo, Z. Chen, C. Citro, G. S. Corrado, A.
 
 # TensorFlow
 ## 1. Introduction
-[TensorFlow](https://www.tensorflow.org) is a free and open-source software library for machine learning. It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks ([TensorFlow - Wikipedia](https://en.wikipedia.org/wiki/TensorFlow), n.d.). 
+[TensorFlow](https://www.tensorflow.org) is a free and open-source software library for machine learning. It can be used for solving a range of tasks but has a particular focus on training and inference of deep neural networks. 
 
 ## 2. License
 TensorFlow is a Free/Open Source software, released under the terms of the Apache License 2.0.
