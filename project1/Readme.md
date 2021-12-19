@@ -44,8 +44,8 @@ In this [Colab Notebook 1: NashPy](https://github.com/SciEcon/Intelligent-Econom
 [QuantEcon](https://quantecon.org/) is a project dedicated to development of open source computational tools for economics, econometrics and decision making ([QuantEcon](https://quantecon.org), n.d.). Check [this document](https://quantecon.org/quantecon-py/) to learn how to access QuantEcon via Python.
 
 ![QuantEcon flowchart](images/QuantEcon.png)
+<p align="center"><b><i>Figure 2.1:QuantEcon overview</i></b></p>
 
-***Figure 2.1:QuantEcon overview***
 
 ## 2. License
 Nashpy is Free/Open Source software, released under the terms of the BSD-3-Clause License.
@@ -55,8 +55,7 @@ Thomas J. Sargent and John Stachurski (2021), *Quantitative Economics (Python)*,
 Chart 2.2 Represents the pipeline to solve for Nash Equilibrium (NE) of Battle of Sexes in QuantEcon. In this [Colab Notebook 2: Nashpy vs QuantEcon](https://github.com/SciEcon-GameTheory/QuantEcon-vs-Nashpy/blob/main/Nashpy%20%20%26%20QuantEcon.ipynb), we compare Nashpy and QuantEcon packages for solving matrix games in a concrete example. 
 
 ![Battle of Sexes](images/Battle-of-sex.png)
-
-***Figure 2.2:QuantEcon Examples - Battle of Sexes***
+<p align="center"><b><i>Figure 2.2:QuantEcon Examples - Battle of Sexes</i></b></p>
 
 
 
@@ -74,8 +73,8 @@ Rahul Savani and Bernhard von Stengel (2015), Game Theory Explorer – Software 
 Figure 3 demonstrate how we create the game tree successfully and solve for the equilibrium.
 
 ![GTE](images/GTE.png)
+<p align="center"><b><i>Figure 3: Chart for Game Theory Explorer example</i></b></p>
 
-***Figure 3: Chart for Game Theory Explorer example***
 
 
 
@@ -84,8 +83,8 @@ Figure 3 demonstrate how we create the game tree successfully and solve for the 
 ### 1. Introduction
 [Gambit](http://www.gambit-project.org/) is an open-source collection of tools for doing computation in game theory ([Gambit](http://www.gambit-project.org), 2017). It provides a graphical interface to help get intuition about simple games and command-line tools and Python scripting API to support practical applications. However, the Python API is sometimes not stable and the graphical interface is more recommended. Check [official website](http://www.gambit-project.org/) to get started with Gambit.
 ![Gambit](images/Gambit.png)
+<p align="center"><b><i>Figure 4: Gambit overview</i></b></p>
 
-***Figure 4: Gambit overview***
 
 ### 2. License
 Gambit is Free/Open Source software, released under the terms of the GNU General Public License.
@@ -97,8 +96,8 @@ Here we provide an example of solving an imperfect information game with Gambit.
 <p align="center">
     <img src=images/Gambit2.png>
 </p>
+<p align="center"><b><i>Figure 5: Construct and solve imperfect information game with Gambit</i></b></p>
 
-***Figure 5: Construct and solve imperfect information game with Gambit***
 
 
 # Mesa
@@ -110,7 +109,8 @@ Here we provide an example of solving an imperfect information game with Gambit.
 
 ![Mesa](images/mesa.png)
 
-***Figure 6: Mesa Overview***
+<p align="center"><b><i>Figure 6: Mesa Overview</i></b></p>
+
 ### 2. License
 Mesa is an Apache2 licensed agent-based modeling (or ABM) framework in Python.
 ### 3. Required Citation
@@ -120,12 +120,12 @@ In the [Colab Notebook 3: Mesa](https://github.com/SciEcon-GameTheory/mesa_based
 <p align="center">
     <img src=images/persudo.png>
 </p>
+<p align="center"><b><i>Figure 7.1: Mesa Example 1: Pseudo Code</i></b></p>
 
-***Figure 7.1: Mesa Example 1: Pseudo Code***
 
 ![Mesa2](images/mesa2.png)
 
-***Figure 7.2: Mesa example 2: the Pipeline***
+<p align="center"><b><i>Figure 7.2: Mesa example 2: the Pipeline</i></b></p>
 
 
 
