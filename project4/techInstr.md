@@ -1,20 +1,20 @@
 # Table of Contents
 
-### [About](#about)
+### [Introduction](#introduction)
 
-### [1. Languages](#languages)
+### [Languages](#languages)
 
-#### [1.1 LaTex](#latex)
+#### [LaTex](#latex)
 
-#### [1.2 Markdown](#markdown)
+#### [Markdown](#markdown)
 
-### [2. Basic Platform or Software](#basic-platform-or-software)
+### [Basic Platform or Software](#basic-platform-or-software)
 
-### [3. Collaborative Platforms or Softwares](#3-collaborative-platforms-or-softwares)
+### [Collaborative Platforms or Softwares](#3-collaborative-platforms-or-softwares)
 
 ---
 
-## About
+## Introduction
 For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
 
 ## Languages
