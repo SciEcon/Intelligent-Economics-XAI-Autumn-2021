@@ -1,12 +1,12 @@
 # Table of Contents
 
-### [Introduction](#introduction)
+### [1. Introduction](#introduction)
 
-### [Resources](#resources)
+### [2. Resources](#resources)
 
-### [Step-by-Step Guide](#step-by-step-guide)
+### [3. Step-by-Step Guide](#step-by-step-guide)
 
-### [Conclusion](#conclusion)
+### [4. Conclusion](#conclusion)
 
 ---
 

@@ -1,16 +1,16 @@
 # Table of Contents
 
-### [Introduction](#introduction)
+### [1. Introduction](#introduction)
 
-### [Languages](#languages)
+### [2. Languages](#languages)
 
-#### [LaTex](#latex)
+- #### [2.1 LaTex](#latex)
 
-#### [Markdown](#markdown)
+- #### [2.2 Markdown](#markdown)
 
-### [Basic Platforms or Softwares](#basic-platforms-or-softwares)
+### [3. Recommended Writing Platforms/Softwares](#recommended-writing-platformssoftwares)
 
-### [Collaborative Platforms or Softwares](#3-collaborative-platforms-or-softwares)
+### [4. Other Platforms/Softwares](#other-platformssoftwares)
 
 ---
 
