@@ -64,7 +64,10 @@ In this porject, we introduce 11 useful tools for Economics: Neural Network Play
 ### About 
 For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
 ### Table of Contents
-#### []
+#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md#introduction)
+#### [2. Languages](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md#languages)
+#### [3. Basic Platforms or Softwarse](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md#basic-platform-or-software)
+#### [4. Collaborative Platforms or Softwares](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md#3-collaborative-platforms-or-softwares)
 
 
 ## [Project 5: How Gradescope](./project5/Gradescope.md)
