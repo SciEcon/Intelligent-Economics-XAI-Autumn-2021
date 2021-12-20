@@ -8,7 +8,7 @@
 
 #### [Markdown](#markdown)
 
-### [Basic Platform or Software](#basic-platform-or-software)
+### [Basic Platforms or Softwares](#basic-platforms-or-softwares)
 
 ### [Collaborative Platforms or Softwares](#3-collaborative-platforms-or-softwares)
 
@@ -87,7 +87,8 @@ Markdown is an easy-to-use language standard that allows you to create structure
   - Check this [Documentation](https://beta.openai.com/docs/introduction/overview) for other features of OpenAI Python library.
 - [ReadtheDocs](https://readthedocs.org/) ReadtheDocs is a platform and toolkit for software documentation building and hosting. Check [This Website](https://docs.readthedocs.io/en/stable/tutorial/) for tutorial.
   - The docstring is the basic format for writing Python documentation. Check [This Website](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html) for a tutorial. You can also watch this [YouTube Video](https://www.youtube.com/watch?v=l3084gzo6Eo) for a demo.
-  - [reStructuredText] Similar to Markdown, reStructuredText is used to customize package documentations. Read [This Website](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for basic guidelines.
+  - [reStructuredText](https://docutils.sourceforge.io/rst.html
+) Similar to Markdown, reStructuredText is used to customize package documentations. Read [This Website](https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html) for basic guidelines.
   - Samples: 
     - [Paddle](https://paddle.readthedocs.io/en/7.x-1.x/) [GitHub Repository](https://github.com/PaddlePaddle/Paddle)
     - [PARL](https://parl.readthedocs.io/en/latest/) [GitHub Repository](https://github.com/PaddlePaddle/PARL)
