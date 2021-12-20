@@ -38,9 +38,10 @@ With the development of computer science, more and more tools are invented to he
 ### About
 oTree is an open-source platform for making surveys and experiments. In this tutorial, we describe how to make a simple questionnaire application with oTree, covering the use of oTreeHub, modifying the oTree application on PyCharm, and how to run and release the oTree application on local and online platforms.
 ###Table of Content
-
-
-
+#### [1. Introduction](https://github.com/SciEcon/Intelligent-Economics/blob/main/project2/oTree.md#introduction)
+#### [2. Resources](https://github.com/SciEcon/Intelligent-Economics/blob/main/project2/oTree.md#resources)
+#### [3. Step-by-Step Guide](https://github.com/SciEcon/Intelligent-Economics/blob/main/project2/oTree.md#step-by-step-guide)
+#### [4. Conclusion](https://github.com/SciEcon/Intelligent-Economics/blob/main/project2/oTree.md#conclusion)
 
 ## [Project 3: Software and Packages for Empirical Research: Statistic Tests, Econometrics, and Machine Learning](./project3/README.md)
 ### About
@@ -59,12 +60,11 @@ In this porject, we introduce 11 useful tools for Economics: Neural Network Play
 #### [11. Kaggle Kernel](https://github.com/SciEcon/Intelligent-Economics/tree/main/project3#Kaggle-Kernel)
 
 
-
-
-
 ## [Project 4: Tech Editor Instructions](./project4/techInstr.md)
 ### About 
 For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
+### Table of Contents
+#### []
 
 
 ## [Project 5: How Gradescope](./project5/Gradescope.md)
