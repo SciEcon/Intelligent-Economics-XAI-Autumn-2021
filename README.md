@@ -10,7 +10,7 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
 
-[Xinyu Tian ](LInkedIn URL), XXXX(Major and Class), Duke Kunshan University
+[Xinyu Tian](https://www.linkedin.com/in/xinyu-tian-1777aa203/), Data Science, Class of 2023, Duke Kunshan University
 
 [Tianyu Wu](https://www.linkedin.com/in/tianyu-henry-wu/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
@@ -19,6 +19,8 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 [Jingwei Li](https://www.linkedin.cn/injobs/in/jw-li), Data Science, Class of 2023, Duke Kunshan University
 
 [Chenyu Wang](https://www.linkedin.com/in/chenyuwangcw/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
+
+[Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### About
