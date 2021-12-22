@@ -12,6 +12,8 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 [Xinyu Tian](https://www.linkedin.com/in/xinyu-tian-1777aa203/), Data Science, Class of 2023, Duke Kunshan University
 
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Tianyu_Wu_Photo.jpg" width="128"/>
+
 [Tianyu Wu](https://www.linkedin.com/in/tianyu-henry-wu/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
