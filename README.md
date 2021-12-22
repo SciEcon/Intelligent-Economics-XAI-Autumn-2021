@@ -24,6 +24,8 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 [Chenyu Wang](https://www.linkedin.com/in/chenyuwangcw/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Chenyu_Wang_photo.jpg" width="128" height="148"/>
+
 [Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
