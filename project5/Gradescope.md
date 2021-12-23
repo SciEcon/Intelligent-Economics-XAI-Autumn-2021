@@ -177,14 +177,14 @@ Gutowski, Kevin. 2020. “Submitting a Regrade Request.” Gradescope Help Cente
 
 “Online Assignments (Beta).” 2021. Gradescope Help Center. November 7, 2021. https://help.gradescope.com/article/gm5cmcz19k-instructor-assignment-online.
 
-Papagiannis, Helen. 2017. Augmented Human: How Technology Is Shaping the New Reality. s.l.: O'Reilly Media.
+Papagiannis, Helen. 2017. *Augmented Human: How Technology Is Shaping the New Reality.* s.l.: O'Reilly Media.
 
 “Save Time Grading.” n.d. Gradescope. https://www.gradescope.com/.
 
-Singh, Arjun, Sergey Karayev, Kevin Gutowski, and Pieter Abbeel. 2017. “Gradescope.” Proceedings of the Fourth (2017) ACM Conference on Learning @ Scale. https://doi.org/10.1145/3051457.3051466.
+Singh, Arjun, Sergey Karayev, Kevin Gutowski, and Pieter Abbeel. 2017. “Gradescope.” *Proceedings of the Fourth (2017) ACM Conference on Learning @ Scale.* https://doi.org/10.1145/3051457.3051466.
 
 “Turnitin Acquires Gradescope.” n.d. Turnitin. Accessed December 23, 2021. https://www.turnitin.com/press/turnitin-acquires-gradescope.
 
-Yen, Michael, Sergey Karayev, and Eric Wang. 2020. “Analysis of Grading Times of Short Answer Questions.” Proceedings of the Seventh ACM Conference on Learning @ Scale. https://doi.org/10.1145/3386527.3406748.
+Yen, Michael, Sergey Karayev, and Eric Wang. 2020. “Analysis of Grading Times of Short Answer Questions.” *Proceedings of the Seventh ACM Conference on Learning @ Scale.* https://doi.org/10.1145/3386527.3406748.
 
 
