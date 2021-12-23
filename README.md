@@ -4,13 +4,17 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 **Instructor**: 
 
-<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Luyao_headshot.jpg" width="128"/>
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Luyao_headshot.jpg" width="128" height="128"/>
 
 [Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
 
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Xinyu_Tian.jpg" width="128" height="128"/>
+
 [Xinyu Tian](https://www.linkedin.com/in/xinyu-tian-1777aa203/), Data Science, Class of 2023, Duke Kunshan University
+
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Tianyu_Wu_Photo.jpg" width="128" height="148"/>
 
 [Tianyu Wu](https://www.linkedin.com/in/tianyu-henry-wu/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
@@ -18,7 +22,11 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 [Jingwei Li](https://www.linkedin.cn/injobs/in/jw-li), Data Science, Class of 2023, Duke Kunshan University
 
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Jingwei-Li-head.jpg" width="128" height="148"/>
+
 [Chenyu Wang](https://www.linkedin.com/in/chenyuwangcw/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
+
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Chenyu_Wang_photo.jpg" width="128" height="128"/>
 
 [Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
