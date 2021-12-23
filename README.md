@@ -4,11 +4,13 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 **Instructor**: 
 
-<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Luyao_headshot.jpg" width="128" height="148"/>
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Xinyu_Tian.jpg" width="128" height="128"/>
 
 [Dr. Luyao Zhang](https://scholars.duke.edu/person/luyao.zhang), Assistant Professor of Economics at Social Science Division and Senior Research Scientist at Data Science Research Center, Duke Kunshan University
 
 **Administrative Teaching Assistants**：Xinyu Tian and Tianyu Wu
+
+<img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Tianyu_Wu_Photo.jpg" width="128" height="148"/>
 
 [Xinyu Tian](https://www.linkedin.com/in/xinyu-tian-1777aa203/), Data Science, Class of 2023, Duke Kunshan University
 
