@@ -60,7 +60,7 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 - upload grading rubrics, grade by rubrics, and add additional comments;
 - review, post, and export grades;
 - provide instant feedback to students;
-- receive regrade requests ([Gutowski, 2020](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request)) from students.
+- receive regrade requests from students ([Gutowski, 2020](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request)).
 
 2. **Free access and connection with a broad range of Learning Management Systems (LMS), such as [Sakai](https://sakai.duke.edu/)**: Gradescope is connected with Sakai, which allows posting grades to Sakai with just one click.
 
