@@ -1,7 +1,7 @@
 # About 
 We used Gradescope for both Essay and Code Assignments for two courses at Duke Kunshan University in Autumn 2021. In Econ 101 Economic Principles, we implement three essay assignments, and in Econ 211 Intelligent Economics: An Explainable AI Approach, we implement three essay assignments and one code assignment. In the user cases, we integrate Gradescope to Sakai, the Learning Management System (LMS) adopted at both Duke University and Duke Kunshan University. In this article, we summarize the Gradescope resources, user experience, and reflections for the future of gradings.
 
-Illustrator in Whimsical Folder: [URL](https://whimsical.com/project-5-Qimv14W7pzLGcQkLCZDnMM)
+Illustrator in Whimsical Folder: [[URL]](https://whimsical.com/project-5-Qimv14W7pzLGcQkLCZDnMM)
 
 # Table of Contents
 
@@ -21,7 +21,7 @@ Illustrator in Whimsical Folder: [URL](https://whimsical.com/project-5-Qimv14W7p
 # Introduction to Gradescope Resources
 
 ## About Gradescope
-[Gradescope](https://www.gradescope.com/) can help the instructor to properly administer and grade all of the assessments, no matter online or in-class. It is designed to save grading time by enabling scalable assessment in different subjects, including Computer Science, Economics, Mathematics, Engineering, etc ([Singh et al, 2017](https://dl.acm.org/doi/pdf/10.1145/3051457.3051466)). It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports a quick and flexible grading experience by applying detailed feedback with a simple click ([Gradescope at Duke, 2021](https://learninginnovation.duke.edu/gradescope/)). Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential [AI-assisted grading experience](https://help.gradescope.com/article/mv8qkiux00-instructor-assignment-ai-grading-answer-groups) by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by groups. Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.　
+[Gradescope](https://www.gradescope.com/) can help the instructor to properly administer and grade all of the assessments, no matter online or in-class. It is designed to save grading time by enabling scalable assessment in different subjects, including Computer Science, Economics, Mathematics, Engineering, etc ([Singh et al, 2017](https://dl.acm.org/doi/pdf/10.1145/3051457.3051466)). It creates a platform for the instructor to make a profile of all the assignments that have been designed, including exams, homework, and codes. At the same time, it supports a quick and flexible grading experience by applying detailed feedback with a simple click ([Gradescope at Duke, 2021](https://learninginnovation.duke.edu/gradescope/)). Moreover, Gradescope also supports visualization of the rubric level and overall statistics to better understand the students’ progress. This platform also explores the potential AI-assisted grading experience by applying Natural Language Processing techniques to classify the students’ assignments and thus enable the instructor to grade by groups([Gutowski, 2020](https://help.gradescope.com/article/mv8qkiux00-instructor-assignment-ai-grading-answer-groups)). Overall, this platform optimizes the grading experiences and makes the hands-on experience more efficient.　
 
 ## Gradescope Resources
 - Gradescope Official Website: https://www.gradescope.com/
@@ -60,7 +60,7 @@ Gradescope is generally a user-friendly integrated platform for assignment submi
 - upload grading rubrics, grade by rubrics, and add additional comments;
 - review, post, and export grades;
 - provide instant feedback to students;
-- receive [regrade requests](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request) from students.
+- receive regrade requests ([Gutowski, 2020](https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request)) from students.
 
 2. **Free access and connection with a broad range of Learning Management Systems (LMS), such as [Sakai](https://sakai.duke.edu/)**: Gradescope is connected with Sakai, which allows posting grades to Sakai with just one click.
 
@@ -143,7 +143,7 @@ In the course Econ 211 Intelligent Economics: An Explanable AI Approach, Autumn 
 
 Pros: 
 
-**Handy [code similarity check](https://help.gradescope.com/article/3vr6x46ppn-instructor-assignment-programming-code-similarity)**: Code Similarity helps to determine how students’ codes are similar to each other. It does not demonstrate whether plagiarism exists but rather shows you to what extent two programs are similar to each other. At present, it supports the following coding languages: C, C++, C#, F#, Go, Java, JavaScript, Matlab, MIPS, ML, Python, and R.
+**Handy code similarity check**: Code Similarity helps to determine how students’ codes are similar to each other. It does not demonstrate whether plagiarism exists but rather shows you to what extent two programs are similar to each other. At present, it supports the following coding languages: C, C++, C#, F#, Go, Java, JavaScript, Matlab, MIPS, ML, Python, and R ([Gutowski, 2020](https://help.gradescope.com/article/3vr6x46ppn-instructor-assignment-programming-code-similarity)).
 
 Cons: 
 1. **Code editing environment not provided**:
@@ -163,5 +163,28 @@ Gradescope provides an interface to let you write your own auto-grader for gradi
 2. **Humanity**: We can make the technology more inclusive by providing an empathetic user experience for instructions, TAs, and students with not a strong technical background. 
 
 3. **Intelligence**: We can utilize [asymmetric cryptography](https://www.sciencedirect.com/topics/computer-science/asymmetric-cryptography) and [blockchain](https://www.investopedia.com/terms/b/blockchain.asp) technology to protect the privacy of students.
+
+# References:
+“Gradescope at Duke.” 2021. Duke Learning Innovation. December 20, 2021. https://learninginnovation.duke.edu/gradescope/.
+
+Gutowski, Kevin. 2020. “Ai-Assisted Grading and Answer Groups.” Gradescope Help Center. Gradescope. September 17, 2020. https://help.gradescope.com/article/mv8qkiux00-instructor-assignment-ai-grading-answer-groups.
+
+Gutowski, Kevin. 2020. “Code Similarity.” Gradescope Help Center. Gradescope. August 7, 2020. https://help.gradescope.com/article/3vr6x46ppn-instructor-assignment-programming-code-similarity.
+
+Gutowski, Kevin. 2020. “Submitting a Regrade Request.” Gradescope Help Center. Gradescope. July 14, 2020. https://help.gradescope.com/article/8hchz9h8wh-student-regrade-request.
+
+“Instructor Course Workflow.” n.d. Gradescope Help Center. https://help.gradescope.com/category/nvr9q1hik4-instructor-course-workflow.
+
+“Online Assignments (Beta).” 2021. Gradescope Help Center. November 7, 2021. https://help.gradescope.com/article/gm5cmcz19k-instructor-assignment-online.
+
+Papagiannis, Helen. 2017. Augmented Human: How Technology Is Shaping the New Reality. s.l.: O'Reilly Media.
+
+“Save Time Grading.” n.d. Gradescope. https://www.gradescope.com/.
+
+Singh, Arjun, Sergey Karayev, Kevin Gutowski, and Pieter Abbeel. 2017. “Gradescope.” Proceedings of the Fourth (2017) ACM Conference on Learning @ Scale. https://doi.org/10.1145/3051457.3051466.
+
+“Turnitin Acquires Gradescope.” n.d. Turnitin. Accessed December 23, 2021. https://www.turnitin.com/press/turnitin-acquires-gradescope.
+
+Yen, Michael, Sergey Karayev, and Eric Wang. 2020. “Analysis of Grading Times of Short Answer Questions.” Proceedings of the Seventh ACM Conference on Learning @ Scale. https://doi.org/10.1145/3386527.3406748.
 
 
