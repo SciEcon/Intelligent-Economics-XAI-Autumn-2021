@@ -30,6 +30,8 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 [Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
+<img src="./Zesen_Zhuang_headshot.jpg" width="128" height="128"/>
+
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### About
 With the development of computer science, more and more tools are invented to help solve economic related problems. In this project, we will introduce five useful tools for Economics: Nashpy, QuanEcon, Game Theory Explorer (GTE), Gambit, and Mesa. Nashpy and QuantEcon are able to solve simple game theory problems, and both of them can be accessed by Python. Game Theory Explorer and Gambit are used for simulating and solving extensive games. Mesa is a Python framework for agent-based modeling. We hope this project would be helpful for those who want to solve economic problems with technical tools.
