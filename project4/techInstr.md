@@ -112,16 +112,17 @@ Markdown is an easy-to-use language standard that allows you to create structure
 - [PubPub](https://www.pubpub.org/) PubPub is an open-source publishing platform for open access to content. PubPub supports some latex features and is handy to use. PubPub is a quite new platform but it provides a lot of official instruction and guidelines. Check this [guideline](https://v3.pubpub.org/pub/howto) to get started.
   - Check this [website](https://www.pubpub.org/explore) for example pubs created by PubPub.
     - Journals
-      - Harvard Data Science Review (journal)
-      - Journal of Biomolecular Techniques (journal)
-      - Technology, Mind, and Behavior (journal)
-      - MIT Case Studies in Social and Ethical Responsibilities of Computing (journal)  
-      - Commonplace (KFG's official publication - journal)
-      - Rapid Reviews COVID-19 (overlay journal/preprint)
+      - [Harvard Data Science Review](https://hdsr.mitpress.mit.edu/)(journal)
+      - [Journal of Biomolecular Techniques](https://jbt.pubpub.org/) (journal)
+      - [Technology, Mind, and Behavior](https://tmb.apaopen.org/) (journal)
+      - [MIT Case Studies in Social and Ethical Responsibilities of Computing](https://mit-serc.pubpub.org/) (journal)  
+      - [Commonplace](https://commonplace.knowledgefutures.org/) (KFG's official publication - journal)
+      - [Rapid Reviews COVID-19](https://rapidreviewscovid19.mitpress.mit.edu/) (overlay journal/preprint)
     - Open Educational Resources (OER)
-      - Academic Entrepreneurship for Medical and Health Scientists (OER)  
+      - [Academic Entrepreneurship for Medical and Health Scientists](https://academicentrepreneurship.pubpub.org/) (OER)  
     - e-book
-      - MIT Press Open Architecture and Urban Studies (e-book collection)   
+      - [Phone & Spear](https://phone-and-spear.pubpub.org/)(e-book)
+      - [MIT Press Open Architecture and Urban Studies](https://mitp-arch.mitpress.mit.edu/) (e-book collection)   
 
   - [PubPub Help](https://help.pubpub.org/) The PubPub helping page provides a lot of useful information, you can get solutions to most problems here.
 
