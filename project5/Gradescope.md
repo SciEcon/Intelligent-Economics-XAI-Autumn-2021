@@ -1,7 +1,7 @@
 # Econ 211 How Gradescope: User Experience Reflections 
 ### The future of grading
 # About 
-We used Gradescope for both Essay and Code Assignments for two courses at Duke Kunshan University in Autumn 2021. In Econ 101 Economic Principles, we implement three essay assignments, and in Econ 211 Intelligent Economics: An Explainable AI Approach, we implement three essay assignments and one code assignment. In the user cases, we integrate Gradescope to Sakai, the Learning Management System (LMS) adopted at both Duke University and Duke Kunshan University. In this article, we summarize the Gradescope resources, user experience, and reflections for the future of gradings.
+We used Gradescope for both Essay and Code Assignments for two courses at Duke Kunshan University in Autumn 2021. In Econ 101 Economic Principles, we implement three essay assignments, and in Econ 211 Intelligent Economics: An Explainable AI Approach, we implement three essay assignments and one code assignment. In the user cases, we integrate Gradescope to Sakai, the Learning Management System (LMS) adopted at both Duke University and Duke Kunshan University. In this article, we summarize the Gradescope resources, user experience, and reflections for the future of grading.
 
 Illustrator in Whimsical Folder: [[URL]](https://whimsical.com/project-5-Qimv14W7pzLGcQkLCZDnMM)
 
