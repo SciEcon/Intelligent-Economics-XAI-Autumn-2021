@@ -111,16 +111,16 @@ Markdown is an easy-to-use language standard that allows you to create structure
 
 - [PubPub](https://www.pubpub.org/) PubPub is an open-source publishing platform for open access to content. PubPub supports some latex features and is handy to use. PubPub is a quite new platform but it provides a lot of official instruction and guidelines. Check this [guideline](https://v3.pubpub.org/pub/howto) to get started.
   - Check this [website](https://www.pubpub.org/explore) for example pubs created by PubPub.
-   -Journals
+   - Journals
     - Harvard Data Science Review (journal)
     - Journal of Biomolecular Techniques (journal)
     - Technology, Mind, and Behavior (journal)
     - MIT Case Studies in Social and Ethical Responsibilities of Computing (journal)  
     - Commonplace (KFG's official publication - journal)
     - Rapid Reviews COVID-19 (overlay journal/preprint)
-   -Open Educational Resources (OER)
+   - Open Educational Resources (OER)
     - Academic Entrepreneurship for Medical and Health Scientists (OER)  
-   -e-bookR)
+   - e-book
     - MIT Press Open Architecture and Urban Studies (e-book collection)   
 
   - [PubPub Help](https://help.pubpub.org/) The PubPub helping page provides a lot of useful information, you can get solutions to most problems here.
