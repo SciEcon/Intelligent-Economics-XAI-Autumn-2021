@@ -3,9 +3,9 @@
 For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
 
 ### resources
-- Github Repository: [URL]
-- Illustrator in Whimsical Folder: [URL]
-- PubPub Page: [URL]
+- [Github Repository](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md)
+- [Illustrator in Whimsical Folder](https://whimsical.com/project-4-7ymdxRiHxoLGHXsypWehRj)
+- [PubPub Page](https://ie.pubpub.org/pub/qvnunr75/release/1)
 
 
 # Table of Contents
