@@ -33,7 +33,8 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 [Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
 <img src="./Zesen_Zhuang_headshot.jpg" width="128" height="148"/>
-### resources
+
+## **resources**
 
  - [PubPub Webpage](https://ie.pubpub.org/)
  - [Illustrator in Econ 211 Whimsical Folder](https://whimsical.com/econ-211-CNzMvfqsweUjwCnb7bkaNS)
