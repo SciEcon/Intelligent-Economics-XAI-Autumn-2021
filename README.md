@@ -89,7 +89,7 @@ For writing in emerging fields and interdisciplinary disciplines, writing skills
 #### [4. Collaborative Platforms or Softwares](https://github.com/SciEcon/Intelligent-Economics/blob/main/project4/techInstr.md#3-collaborative-platforms-or-softwares)
 
 
-## [Project 5: How Gradescope](./project5/Gradescope.md)
+## [Project 5: How Gradescope: User Experience Reflections](./project5/Gradescope.md)
 ### About
 We used Gradescope for both Essay and Code Assignments for two courses at Duke Kunshan University in Autumn 2021. In Econ 101 Economic Principles, we implement three essay assignments, and in Econ 211 Intelligent Economics: An Explainable AI Approach, we implement three essay assignments and one code assignment. In the user cases, we integrate Gradescope to [Sakai](https://sakai.duke.edu/), the Learning Management System (LMS) adopted at both Duke University and Duke Kunshan University. In this article, we summarize the Gradescope resources, user experience, and reflections for the future of gradings. 
 
