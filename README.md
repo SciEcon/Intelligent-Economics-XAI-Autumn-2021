@@ -1,4 +1,5 @@
-# Intelligent Economics: An Explainable AI Approach
+# Intelligent Economics: An Explainable AI Approach [![DOI](https://zenodo.org/badge/432712027.svg)](https://zenodo.org/badge/latestdoi/432712027)
+
 
 ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kunshan University
 
