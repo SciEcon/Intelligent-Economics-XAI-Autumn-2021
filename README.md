@@ -1,6 +1,7 @@
 # Intelligent Economics: An Explainable AI Approach
 
 ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kunshan University
+**Acknowledgments**:The Autumn 2021 collection is partly supported by the Social Science Divisional Chair’s Discretionary Fund to encourage faculty engagement in undergraduate research and enhance student-faculty scholarly interactions outside of the classroom. The division chair is Prof. Keping Wu, Associate Professor of Anthropology at Duke Kunshan University. And the supported students include Administrative Teaching Assistants, Xinyu Tian and Tianyu Wu, and Teaching Assistants, Jingwei Li, Chenyu Wang, and Zesen Zhuang. 
 
 **Instructor**: 
 
