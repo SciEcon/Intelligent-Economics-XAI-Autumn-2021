@@ -1,8 +1,6 @@
 # Intelligent Economics: An Explainable AI Approach
 
 ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kunshan University
-[PubPub Webpage](https://ie.pubpub.org/)
-[Illustrator in Econ 211 Whimsical Folder](https://whimsical.com/econ-211-CNzMvfqsweUjwCnb7bkaNS)
 
 **Acknowledgments**:The Autumn 2021 collection is partly supported by the Social Science Divisional Chair’s Discretionary Fund to encourage faculty engagement in undergraduate research and enhance student-faculty scholarly interactions outside of the classroom. The division chair is Prof. Keping Wu, Associate Professor of Anthropology at Duke Kunshan University. And the supported students include Administrative Teaching Assistants, Xinyu Tian and Tianyu Wu, and Teaching Assistants, Jingwei Li, Chenyu Wang, and Zesen Zhuang. 
 
@@ -35,6 +33,9 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 [Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
 
 <img src="./Zesen_Zhuang_headshot.jpg" width="128" height="148"/>
+### resources
+- [PubPub Webpage](https://ie.pubpub.org/)
+- [Illustrator in Econ 211 Whimsical Folder](https://whimsical.com/econ-211-CNzMvfqsweUjwCnb7b
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### About
