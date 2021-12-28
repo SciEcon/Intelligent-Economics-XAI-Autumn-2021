@@ -34,8 +34,9 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 <img src="./Zesen_Zhuang_headshot.jpg" width="128" height="148"/>
 ### resources
-- [PubPub Webpage](https://ie.pubpub.org/)
-- [Illustrator in Econ 211 Whimsical Folder](https://whimsical.com/econ-211-CNzMvfqsweUjwCnb7b
+
+ - [PubPub Webpage](https://ie.pubpub.org/)
+ - [Illustrator in Econ 211 Whimsical Folder](https://whimsical.com/econ-211-CNzMvfqsweUjwCnb7bkaNS)
 
 ## [Project 1: Python Packages for Economics：Model and Simulation](https://github.com/SciEcon/Intelligent-Economics/tree/main/project1)
 ### About
