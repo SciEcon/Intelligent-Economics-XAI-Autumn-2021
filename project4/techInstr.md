@@ -1,4 +1,5 @@
-## About
+# Project 4: Tech Editor Instructions
+# About
 
 For writing in emerging fields and interdisciplinary disciplines, writing skills are no longer the only need. The new era of research requires an increasing number of writing techniques to be mastered. This article introduces some of the software and platforms that are needed for writing, typesetting as well as content creating, and provides some relevant references.
 
