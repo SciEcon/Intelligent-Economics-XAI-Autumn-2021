@@ -118,11 +118,10 @@ Markdown is an easy-to-use language standard that allows you to create structure
     - MIT Case Studies in Social and Ethical Responsibilities of Computing (journal)  
     - Commonplace (KFG's official publication - journal)
     - Rapid Reviews COVID-19 (overlay journal/preprint)
-   - Open Educational Resources (OER)
+   -Open Educational Resources (OER)
     - Academic Entrepreneurship for Medical and Health Scientists (OER)  
-   - e-book
-    - Phone & Spear (e-book)
-    - MIT Press Open Architecture and Urban Studies (e-book collection)
+   -e-bookR)
+    - MIT Press Open Architecture and Urban Studies (e-book collection)   
 
   - [PubPub Help](https://help.pubpub.org/) The PubPub helping page provides a lot of useful information, you can get solutions to most problems here.
 
