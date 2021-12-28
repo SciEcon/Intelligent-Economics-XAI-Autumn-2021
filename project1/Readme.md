@@ -1,4 +1,4 @@
-
+# Project 1: Python Packages for Economics：Model and Simulation
 # About
 In these instructions, we introduce five Python Packages for Economics: Nashpy, QuantEcon, Game Theory Explorer, Gambit, and Mesa. All five packages are useful for modelling and simulations. 
 Both Nashpy and QuantEcon can solve simple game theory problems. To be specific, Nashpy is a Python library used for the computation of equilibria in 2 player strategic form games ([Nashpy](https://nashpy.readthedocs.io/en/stable/), 2017) while QuantEcon offers additional computational tools for economics, econometrics, and decision making ([QuantEcon](https://quantecon.org), n.d.). Game Theory Explorer (GTE) and Gambit are used for simulating and solving extensive games. GTE is an online graphical user interface for small and medium size games while Gambit provides more complete functions. Mesa is a framework provided by Python that aims to do agent-based modeling.
