@@ -22,17 +22,18 @@ ECON 211-001 (1094), 2021 Autumn Term (Seven Week – Second Session), Duke Kuns
 
 **Teaching Assistants**: Jingwei Li, Chenyu Wang, and Zesen Zhuang
 
-[Jingwei Li](https://www.linkedin.cn/injobs/in/jw-li), Data Science, Class of 2023, Duke Kunshan University
-
 <img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Jingwei-Li-head.jpg" width="128" height="148"/>
 
-[Chenyu Wang](https://www.linkedin.com/in/chenyuwangcw/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
+[Jingwei Li](https://www.linkedin.cn/injobs/in/jw-li), Data Science, Class of 2023, Duke Kunshan University
 
 <img src="https://github.com/SciEcon/Intelligent-Economics/blob/main/Chenyu_Wang_photo.jpg" width="128" height="148"/>
 
-[Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
+[Chenyu Wang](https://www.linkedin.com/in/chenyuwangcw/), Applied Mathematics and Computational Science, Class of 2023, Duke Kunshan University
 
 <img src="./Zesen_Zhuang_headshot.jpg" width="128" height="148"/>
+
+[Zesen Zhuang](https://www.linkedin.com/in/zesen-zhuang-624591217/), Data Science, Class of 2023, Duke Kunshan University
+
 
 ## **resources**
 
